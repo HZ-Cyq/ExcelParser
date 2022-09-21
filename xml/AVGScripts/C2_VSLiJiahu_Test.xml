@@ -1,0 +1,366 @@
+<root>
+<C2_VSLiJiahu_Test id="0" originalRow="0" groupSign="开始" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="1" originalRow="1" groupSign="" debugClose="" action="特殊-转场效果" data="3" param="" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="2" originalRow="2" groupSign="" debugClose="" action="设置镜号" data="avg_vscourt_story" param="" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="3" originalRow="3" groupSign="" debugClose="" action="设置场号" data="avg_vscourt_scene" param="" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="4" originalRow="4" groupSign="" debugClose="" action="系统-打开界面" data="ui_vscourtStart" param="9000" param2="1" param3=""/>
+<C2_VSLiJiahu_Test id="5" originalRow="5" groupSign="" debugClose="" action="场景-执行脚本" data="AvgSetValue:style0" param="UI_TypeWriter.touchCanSkipText=true" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="6" originalRow="6" groupSign="5" debugClose="" action="特殊-转场效果" data="0" param="0.5" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="7" originalRow="7" groupSign="" debugClose="" action="设置角色" data="zhouyi|CharForAvg" param="玩家起始位置" param2="" param3="FALSE;FALSE;FALSE"/>
+<C2_VSLiJiahu_Test id="8" originalRow="8" groupSign="" debugClose="" action="设置角色" data="lijiahu|CircleList" param="敌对起始位置" param2="" param3="FALSE;FALSE;FALSE"/>
+<C2_VSLiJiahu_Test id="9" originalRow="9" groupSign="1" debugClose="1" action="特殊-转场效果" data="0" param="" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="10" originalRow="10" groupSign="2" debugClose="" action="高级镜头" data="1v1李加虎" param="开场镜头" param2="0.3" param3=""/>
+<C2_VSLiJiahu_Test id="11" originalRow="11" groupSign="舌战准备阶段" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="12" originalRow="12" groupSign="" debugClose="" action="播放音乐" data="bgm_1v1" param="TRUE" param2="1|1" param3=""/>
+<C2_VSLiJiahu_Test id="13" originalRow="13" groupSign="" debugClose="" action="高级镜头" data="1v1李加虎" param="正面双人视角" param2="0.6" param3=""/>
+<C2_VSLiJiahu_Test id="14" originalRow="14" groupSign="" debugClose="" action="角色表情" data="lijiahu" param="得意_开始_01;得意_开始_01" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="15" originalRow="15" groupSign="3.4" debugClose="" action="角色动作" data="lijiahu" param="待机_结束_01" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="16" originalRow="16" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="人生何处不相逢，好久不见啊，老同学。" param2="人生何处不相逢" param3="type=4"/>
+<C2_VSLiJiahu_Test id="17" originalRow="17" groupSign="" debugClose="" action="角色动作" data="zhouyi" param="无奈_开始_01" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="18" originalRow="18" groupSign="" debugClose="" action="高级镜头" data="1v1李加虎" param="玩家特写视角" param2="0.7" param3=""/>
+<C2_VSLiJiahu_Test id="19" originalRow="19" groupSign="" debugClose="" action="特殊-闪白效果" data="1" param="0.2" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="20" originalRow="20" groupSign="" debugClose="" action="镜头振动" data="1;1.5;1;0.5" param="" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="21" originalRow="21" groupSign="0.5" debugClose="" action="角色表情" data="zhouyi" param="无奈_开始_01;无奈_开始_01" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="22" originalRow="22" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="&lt;color=#0b91ef&gt;（完了……怎么会是这个家伙）&lt;/color&gt;" param2="完了怎么会是" param3="type=4"/>
+<C2_VSLiJiahu_Test id="23" originalRow="23" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="&lt;color=#0b91ef&gt;（还是一如既往的浮夸）&lt;/color&gt;{角色动作,,周易_无奈_动作_结束_01}" param2="哎还是一如既往" param3="type=4"/>
+<C2_VSLiJiahu_Test id="24" originalRow="24" groupSign="0.3" debugClose="" action="角色表情" data="zhouyi" param="思考_开始_01;思考_开始_01" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="25" originalRow="25" groupSign="0.5" debugClose="" action="角色动作" data="zhouyi" param="周易_思考_动作_开始_01" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="26" originalRow="26" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="&lt;color=#0b91ef&gt;（很怀疑他能不能看清楚到底发生了什么……）&lt;/color&gt;" param2="很怀疑他" param3="type=4"/>
+<C2_VSLiJiahu_Test id="27" originalRow="27" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="&lt;color=#0b91ef&gt;（但是看他这得意的样子，好像真的知道一些情况。）&lt;/color&gt;" param2="不过看他这得意" param3="type=4"/>
+<C2_VSLiJiahu_Test id="28" originalRow="28" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="&lt;color=#0b91ef&gt;（凭以往的经验，总觉得会有一番添油加醋……）&lt;/color&gt;" param2="凭以往的经验" param3="type=4"/>
+<C2_VSLiJiahu_Test id="29" originalRow="29" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="&lt;color=#0b91ef&gt;（不过也没有其他办法了，先问问目击现场的情况吧！）&lt;/color&gt;" param2="不过也没有其他办法了" param3="type=4"/>
+<C2_VSLiJiahu_Test id="30" originalRow="30" groupSign="" debugClose="" action="角色动作" data="zhouyi" param="周易_思考_动作_结束_01" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="31" originalRow="31" groupSign="" debugClose="" action="高级镜头" data="1v1李加虎" param="正面双人视角" param2="0.5" param3=""/>
+<C2_VSLiJiahu_Test id="32" originalRow="32" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{角色表情,,周易_怀疑_上脸_开始_01;周易_怀疑_下嘴_开始_01}{角色转身,zhouyi,-20,0.5}别的先放在一边，你到底看到了什么？" param2="别的先放在一边" param3="type=4"/>
+<C2_VSLiJiahu_Test id="33" originalRow="33" groupSign="" debugClose="" action="跳转-标签" data="" param="舌战阶段一" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="34" originalRow="34" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="35" originalRow="35" groupSign="舌战阶段一" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="36" originalRow="36" groupSign="" debugClose="" action="高级镜头" data="1v1李加虎" param="敌对特写视角" param2="0.3" param3=""/>
+<C2_VSLiJiahu_Test id="37" originalRow="37" groupSign="2" debugClose="" action="角色台词" data="lijiahu" param="{角色动作,,李加虎_思考_动作_开始_01}{角色表情,,李加虎_思考_上脸_开始_01;李加虎_思考_下嘴_开始_01}唔？我看到了什么？" param2="唔？我看到了什么？" param3="type=4"/>
+<C2_VSLiJiahu_Test id="38" originalRow="38" groupSign="0.3" debugClose="" action="特殊-闪白效果" data="1" param="0.2" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="39" originalRow="39" groupSign="" debugClose="" action="镜头振动" data="1;1.5;2;0.5" param="" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="40" originalRow="40" groupSign="" debugClose="" action="角色表情" data="zhouyi" param="待机_循环_01;待机_开始_01" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="41" originalRow="41" groupSign="" debugClose="" action="角色挂件" data="lijiahu" param="动漫_惊讶" param2="头" param3="FALSE"/>
+<C2_VSLiJiahu_Test id="42" originalRow="42" groupSign="" debugClose="" action="角色挂件" data="lijiahu" param="动漫_黑线" param2="头" param3="TRUE"/>
+<C2_VSLiJiahu_Test id="43" originalRow="43" groupSign="1" debugClose="" action="角色台词" data="lijiahu" param="{角色动作,,李加虎_紧张_动作_开始_01}{角色表情,,李加虎_害怕_上脸_开始_01;李加虎_害怕_下嘴_开始_01}！！！" param2="！！！" param3="type=4"/>
+<C2_VSLiJiahu_Test id="44" originalRow="44" groupSign="" debugClose="" action="角色挂件" data="lijiahu" param="动漫_黑线" param2="头" param3="FALSE"/>
+<C2_VSLiJiahu_Test id="45" originalRow="45" groupSign="" debugClose="" action="高级镜头" data="1v1李加虎" param="敌对正面视角" param2="0.7" param3=""/>
+<C2_VSLiJiahu_Test id="46" originalRow="46" groupSign="" debugClose="" action="镜头振动" data="1;2;2;1" param="" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="47" originalRow="47" groupSign="" debugClose="" action="角色挂件" data="lijiahu" param="动漫_紧张" param2="头" param3="TRUE"/>
+<C2_VSLiJiahu_Test id="48" originalRow="48" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{角色动作,,李加虎_害怕_动作_开始_01}{播放音效,voice_slash}{角色表情,,李加虎_害怕_上脸_循环_01;李加虎_害怕_下嘴_循环_01}{特殊-闪白效果,1}{shake=3}鬼啊！{0.5}我看到了鬼！" param2="鬼啊！我看到了鬼" param3="type=4"/>
+<C2_VSLiJiahu_Test id="49" originalRow="49" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{播放音效,voice_slash}{角色表情,,李加虎_害怕_上脸_循环_01;李加虎_害怕_下嘴_循环_01}{特殊-闪白效果,1}{shake=3}&lt;size=60&gt;活{0.2}生{0.2}生{0.2}的{0.2}鬼{0.2}！{0.2}！&lt;/size&gt;" param2="活生生的鬼" param3="type=4"/>
+<C2_VSLiJiahu_Test id="50" originalRow="50" groupSign="失败回舌战阶段一" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="51" originalRow="51" groupSign="" debugClose="" action="高级镜头" data="1v1李加虎" param="敌对正面视角" param2="0" param3=""/>
+<C2_VSLiJiahu_Test id="52" originalRow="52" groupSign="" debugClose="" action="角色动作" data="lijiahu" param="紧张_开始_01" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="53" originalRow="53" groupSign="1" debugClose="" action="角色表情" data="lijiahu" param="紧张_开始_01;紧张_开始_01" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="54" originalRow="54" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="到处阴森森的{0.2}，\n整个办公室都散发着鬼气！" param2="到处都阴森森的" param3="type=4"/>
+<C2_VSLiJiahu_Test id="55" originalRow="55" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{高级镜头,1v1李加虎,敌对正面大特写视角,0.05}{1}{#李加虎害怕动作}{#李加虎害怕表情}&lt;size=65&gt;一定是有鬼！！！&lt;/size&gt;{shake=3}{打开特效板,,,avg_effect_1v1_speedLine}" param2="一定是有鬼" param3="type=4"/>
+<C2_VSLiJiahu_Test id="56" originalRow="56" groupSign="" debugClose="" action="关闭特效板" data="" param="" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="57" originalRow="57" groupSign="2" debugClose="" action="角色挂件" data="lijiahu" param="动漫_紧张" param2="头" param3="FALSE"/>
+<C2_VSLiJiahu_Test id="58" originalRow="58" groupSign="" debugClose="" action="高级镜头" data="1v1李加虎" param="正面双人视角" param2="0.5" param3=""/>
+<C2_VSLiJiahu_Test id="59" originalRow="59" groupSign="" debugClose="" action="角色动作" data="zhouyi" param="无奈_开始_02" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="60" originalRow="60" groupSign="1.5" debugClose="" action="角色表情" data="zhouyi" param="无奈_开始_01;无奈_开始_01" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="61" originalRow="61" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="&lt;color=#0b91ef&gt;（……又来了，这人从小就怕鬼）&lt;/color&gt;" param2="又来了这人从小就" param3="type=4"/>
+<C2_VSLiJiahu_Test id="62" originalRow="62" groupSign="" debugClose="" action="角色动作" data="zhouyi" param="思考_开始_01" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="63" originalRow="63" groupSign="1" debugClose="" action="角色表情" data="zhouyi" param="待机_循环_01;待机_开始_01" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="64" originalRow="64" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="&lt;color=#0b91ef&gt;（不过有一点，我倒是有些在意）&lt;/color&gt;{vscourt=dialog}" param2="不过有一点我倒是" param3="type=4"/>
+<C2_VSLiJiahu_Test id="65" originalRow="65" groupSign="1_dialog1" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="66" originalRow="66" groupSign="" debugClose="" action="高级镜头" data="1v1李加虎" param="玩家正面视角" param2="0.3" param3=""/>
+<C2_VSLiJiahu_Test id="67" originalRow="67" groupSign="" debugClose="" action="移镜头" data="左" param="0.0001" param2="20" param3="1"/>
+<C2_VSLiJiahu_Test id="68" originalRow="68" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{#周易思考动作}{#周易思考表情}为什么你这么肯定是闹鬼呢？" param2="为什么这么肯定" param3="type=4"/>
+<C2_VSLiJiahu_Test id="69" originalRow="69" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="仅凭这些&lt;color=#96ff00&gt;黄绿色的荧光&lt;/color&gt;吗？{#周易思考动作恢复}{#周易思考表情恢复}" param2="就凭这些黄绿色" param3="type=4"/>
+<C2_VSLiJiahu_Test<C2_VSLiJiahu_Test id="71" originalRow="71" groupSign="" debugClose="" action="跳转-标签" data="" param="舌战阶段二" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="72" originalRow="72" groupSign="1_dialog2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="73" originalRow="73" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{高级镜头,1v1李加虎,玩家特写视角,0.5}什么闹鬼？！" param2="什么闹鬼" param3="type=4"/>
+<C2_VSLiJiahu_Test id="74" originalRow="74" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{高级镜头,1v1李加虎,玩家正面视角,0.6}咱们好歹一起读过大学，能不能有点科学精神！" param2="咱们好歹一起读过大学" param3="type=4"/>
+<C2_VSLiJiahu_Test id="75" originalRow="75" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{高级镜头,1v1李加虎,敌对正面视角}{#闪白ding}{角色动作,,李加虎_不屑_动作_开始_01}{角色表情,,李加虎_不屑_上脸_开始_01;李加虎_不屑_下嘴_开始_01}什么？大雨倾盆？" param2="什么大雨倾盆" param3="type=4"/>
+<C2_VSLiJiahu_Test id="76" originalRow="76" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{高级镜头,1v1李加虎,敌对特写视角,0.2}昨天没下雨，我记得很清楚！{角色动作,,李加虎_不屑_动作_结束_01}{角色表情,,李加虎_不屑_上脸_结束_01;李加虎_不屑_下嘴_结束_01}" param2="昨天没下雨啊" param3="type=4"/>
+<C2_VSLiJiahu_Test id="77" originalRow="77" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{角色动作,,周易_无奈_动作_开始_01}{角色表情,,周易_无奈_上脸_开始_01;周易_无奈_下嘴_开始_01}{高级镜头,1v1李加虎,玩家特写视角,0.2}{s=0.1}对牛弹琴……" param2="对牛弹琴" param3="type=4"/>
+<C2_VSLiJiahu_Test id="78" originalRow="78" groupSign="" debugClose="" action="特殊-闪白效果" data="1" param="" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="79" originalRow="79" groupSign="" debugClose="" action="镜头振动" data="1" param="" param2=""/>
+<C2_VSLiJiahu_Test id="80" originalRow="80" groupSign="" debugClose="" action="播放音效" data="voice_slash" param="" param2=""/>
+<C2_VSLiJiahu_Test<C2_VSLiJiahu_Test id="82" originalRow="82" groupSign="" debugClose="" action="跳转-标签" data="" param="失败回舌战阶段一" param2=""/>
+<C2_VSLiJiahu_Test id="83" originalRow="83" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="84" originalRow="84" groupSign="舌战阶段二" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="85" originalRow="85" groupSign="" debugClose="" action="高级镜头" data="1v1李加虎" param="敌对正面视角" param2="0.5" param3=""/>
+<C2_VSLiJiahu_Test id="86" originalRow="86" groupSign="" debugClose="" action="移镜头" data="左" param="0.0001" param2="10" param3="0"/>
+<C2_VSLiJiahu_Test id="87" originalRow="87" groupSign="" debugClose="" action="角色动作" data="lijiahu" param="得意_开始_01" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="88" originalRow="88" groupSign="1.2" debugClose="" action="角色表情" data="lijiahu" param="得意_开始_01;得意_开始_01" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="89" originalRow="89" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="哼哼，当然不止这些了" param2="哼哼当然不止" param3="type=4"/>
+<C2_VSLiJiahu_Test id="90" originalRow="90" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{#李加虎害怕动作}{#李加虎紧张表情}{0.3}后面有{#闪白震slash}更可怕的存在！" param2="后面还有更可怕的存在" param3="type=4"/>
+<C2_VSLiJiahu_Test id="91" originalRow="91" groupSign="" debugClose="" action="角色挂件" data="lijiahu" param="动漫_紧张" param2="头" param3="TRUE"/>
+<C2_VSLiJiahu_Test id="92" originalRow="92" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{角色动作,,李加虎_忧伤_动作_开始_01}{角色表情,,李加虎_忧伤_上脸_开始_01;李加虎_忧伤_下嘴_开始_01}{0.5}连我这么英明神武的人，都吓了一跳！" param2="连我这么英明神武的人" param3="type=4"/>
+<C2_VSLiJiahu_Test id="93" originalRow="93" groupSign="" debugClose="" action="角色挂件" data="lijiahu" param="动漫_紧张" param2="头" param3="TRUE"/>
+<C2_VSLiJiahu_Test id="94" originalRow="94" groupSign="" debugClose="" action="角色动作" data="lijiahu" param="害怕_开始_01" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="95" originalRow="95" groupSign="3" debugClose="" action="角色表情" data="lijiahu" param="害怕_开始_01;害怕_开始_01" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="96" originalRow="96" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="太吓人了，那是——{0.3}散发血气的{s=0.2}&lt;b&gt;{shake=1,0.1}{特殊-闪白效果,1,0.1}大{shake=1,0.1}{特殊-闪白效果,1,0.1}肚{shake=1,0.1}{特殊-闪白效果,1,0.1}饿{shake=1,0.1}{特殊-闪白效果,1,0.1}鬼！&lt;/b&gt;" param2="太吓人了那是" param3="type=4"/>
+<C2_VSLiJiahu_Test id="97" originalRow="97" groupSign="" debugClose="" action="角色挂件" data="lijiahu" param="动漫_紧张" param2="头" param3="FALSE"/>
+<C2_VSLiJiahu_Test id="98" originalRow="98" groupSign="" debugClose="" action="高级镜头" data="1v1李加虎" param="玩家特写视角" param2="0.8"/>
+<C2_VSLiJiahu_Test id="99" originalRow="99" groupSign="0.8" debugClose="" action="角色动作" data="zhouyi" param="周易_思考_动作_开始_01" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="100" originalRow="100" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{0.3}&lt;color=#0b91ef&gt;（……{0.2}大肚饿鬼{0.2}？）&lt;/color&gt;" param2="大肚恶鬼？" param3="type=4"/>
+<C2_VSLiJiahu_Test id="101" originalRow="101" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{高级镜头,1v1李加虎,玩家正面大特写视角,0.5}{0.5}{播放音效,voice_inspiration}{打开特效板,,,avg_effect_1v1_imagination}{0.5}&lt;color=#0b91ef&gt;（不就是涂凌看的那个恐怖电影里的boss吗？）&lt;/color&gt;" param2="不就是涂凌看的" param3="type=4"/>
+<C2_VSLiJiahu_Test id="102" originalRow="102" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="&lt;color=#0b91ef&gt;（电影里的饿鬼浑身泛绿，见什么吃什么……）&lt;/color&gt;" param2="电影里的饿鬼浑身泛绿" param3="type=4"/>
+<C2_VSLiJiahu_Test id="103" originalRow="103" groupSign="" debugClose="" action="关闭特效板" data="" param="" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="104" originalRow="104" groupSign="" debugClose="" action="角色动作" data="zhouyi" param="周易_思考_动作_结束_01" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="105" originalRow="105" groupSign="" debugClose="" action="高级镜头" data="1v1李加虎" param="敌对特写视角" param2="0.5"/>
+<C2_VSLiJiahu_Test id="106" originalRow="106" groupSign="" debugClose="" action="角色动作" data="lijiahu" param="害怕_开始_01" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="107" originalRow="107" groupSign="1.2" debugClose="" action="角色表情" data="lijiahu" param="害怕_开始_01;害怕_开始_01" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="108" originalRow="108" groupSign="" debugClose="" action="移镜头" data="左" param="3e-5" param2="10" param3="0"/>
+<C2_VSLiJiahu_Test id="109" originalRow="109" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="还好我机智，饿鬼还没现身，我就提前把眼睛给闭上了。" param2="还好我机智" param3="type=4"/>
+<C2_VSLiJiahu_Test id="110" originalRow="110" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="要是看到了饿鬼的样子{0.2}，{#闪白震slash}{播放音效,voice_slash}\n肯定会被带走的！" param2="要是看到了恶鬼" param3="type=4"/>
+<C2_VSLiJiahu_Test id="111" originalRow="111" groupSign="" debugClose="" action="高级镜头" data="1v1李加虎" param="敌对正面视角" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="112" originalRow="112" groupSign="" debugClose="" action="角色动作" data="lijiahu" param="紧张_开始_01" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="113" originalRow="113" groupSign="1.2" debugClose="" action="角色表情" data="lijiahu" param="紧张_开始_01;紧张_开始_01" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="114" originalRow="114" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="呼，呼，说起来真的是好险呢！" param2="呼呼说起来真的是" param3="type=4"/>
+<C2_VSLiJiahu_Test id="115" originalRow="115" groupSign="失败回舌战阶段二" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="116" originalRow="116" groupSign="" debugClose="" action="高级镜头" data="1v1李加虎" param="正面双人视角" param2="0.7" param3=""/>
+<C2_VSLiJiahu_Test id="117" originalRow="117" groupSign="0.2" debugClose="" action="移镜头" data="下" param="7e-5" param2="6" param3="0"/>
+<C2_VSLiJiahu_Test id="118" originalRow="118" groupSign="" debugClose="" action="移镜头" data="左" param="5e-5" param2="6" param3="0"/>
+<C2_VSLiJiahu_Test id="119" originalRow="119" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{角色动作,,周易_无奈_动作_开始_02}{角色表情,,周易_无奈_上脸_开始_02;周易_无奈_下嘴_开始_02}&lt;color=#0b91ef&gt;（{s=.0.05}……{sleep=0.6}意思就是根本没看到呗！）&lt;/color&gt;" param2="意思就是根本没看到呗" param3="type=4"/>
+<C2_VSLiJiahu_Test id="120" originalRow="120" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="&lt;color=#0b91ef&gt;（还煞有介事地说什么大肚饿鬼，像模像样的。）&lt;/color&gt;" param2="还煞有介事地说" param3="type=4"/>
+<C2_VSLiJiahu_Test id="121" originalRow="121" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="&lt;color=#0b91ef&gt;（分明就是太害怕，躲起来了！）&lt;/color&gt;{vscourt=dialog}{角色表情,,周易_无奈_上脸_结束_02;周易_无奈_下嘴_结束_02}" param2="分明就是太害怕" param3="type=4"/>
+<C2_VSLiJiahu_Test id="122" originalRow="122" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="123" originalRow="123" groupSign="2_dialog1" debugClose="" action="" data="" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="124" originalRow="124" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{高级镜头,1v1李加虎,玩家特写视角,0.5}{0.1}{移镜头,左,0.0003,10,0}大肚饿鬼？长的跟电影里一样吗？" param2="大肚恶鬼长得跟" param3="type=4"/>
+<C2_VSLiJiahu_Test id="125" originalRow="125" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{高级镜头,1v1李加虎,敌对正面视角}{0.1}{移镜头,右,0.0003,10,0}{角色动作,,李加虎_愤怒_动作_开始_01}{角色表情,,李加虎_紧张_上脸_开始_01;李加虎_紧张_下嘴_开始_01}{#闪白震punch}一模一样！{角色动作,,李加虎_愤怒_动作_开始_01}{0.4}{#闪白震punch}分毫不差！{角色动作,,李加虎_愤怒_动作_开始_01}{0.4}{#闪白震punch}如假包换！{角色动作,,李加虎_愤怒_动作_开始_01}{0.4}{#闪白震punch}假一赔十！" param2="一模一样分毫不差" param3="type=4"/>
+<C2_VSLiJiahu_Test id="126" originalRow="126" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{高级镜头,1v1李加虎,正面双人视角}{0.1}{移镜头,左,0.0003,10,0}你这么一说，我也想去看看了怎么回事……" param2="你这么一说我也想去" param3="type=4"/>
+<C2_VSLiJiahu_Test id="127" originalRow="127" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="就是这样！" param2="就是这样" param3="type=4"/>
+<C2_VSLiJiahu_Test id="128" originalRow="128" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="没什么别的事，我还赶着去打下一份工呢。" param2="没什么别的事我还" param3="type=4"/>
+<C2_VSLiJiahu_Test id="129" originalRow="129" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="古德拜！" param2="古德拜" param3="type=4"/>
+<C2_VSLiJiahu_Test id="130" originalRow="130" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{高级镜头,1v1李加虎,玩家特写视角}&lt;color=#0b91ef&gt;({#闪白震punch}等下，{角色动作,,周易_无奈_动作_开始_01}{#闪白震punch}我是不是忘了什么正事……)&lt;/color&gt;" param2="等下我是不是" param3="type=4"/>
+<C2_VSLiJiahu_Test id="131" originalRow="131" groupSign="" debugClose="" action="特殊-闪白效果" data="1" param="" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="132" originalRow="132" groupSign="" debugClose="" action="镜头振动" data="1" param="" param2=""/>
+<C2_VSLiJiahu_Test id="133" originalRow="133" groupSign="" debugClose="" action="播放音效" data="voice_slash" param="" param2=""/>
+<C2_VSLiJiahu_Test<C2_VSLiJiahu_Test id="135" originalRow="135" groupSign="" debugClose="" action="跳转-标签" data="" param="失败回舌战阶段二" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="136" originalRow="136" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="137" originalRow="137" groupSign="2_dialog2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="138" originalRow="138" groupSign="" debugClose="" action="高级镜头" data="1v1李加虎" param="敌对过肩视角" param2="0.5" param3=""/>
+<C2_VSLiJiahu_Test id="139" originalRow="139" groupSign="" debugClose="" action="角色转身" data="zhouyi" param="-50" param2="0.1" param3=""/>
+<C2_VSLiJiahu_Test id="140" originalRow="140" groupSign="1" debugClose="" action="角色表情" data="zhouyi" param="怀疑_开始_01;怀疑_开始_01" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="141" originalRow="141" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="眼睛闭起来了？{角色动作,,周易_无奈_动作_结束_02}{#周易待机表情}" param2="眼睛闭起来了？" param3="type=4"/>
+<C2_VSLiJiahu_Test id="142" originalRow="142" groupSign="2" debugClose="" action="角色台词" data="zhouyi" param="既然眼睛都闭起来了{0.2}，\n{角色转身,zhouyi,-40,0.5}{角色动作,,周易_胜利_动作_开始_02}{打开特效板,,,avg_effect_1v1_speedLine_hori}是怎么看到饿鬼的？{0.2}{#闪白震punch}{播放音效,voice_lightpunsh}{0.6}{#李加虎惊讶动作}{#李加虎惊讶表情}" param2="既然眼睛都闭起来了" param3="type=4"/>
+<C2_VSLiJiahu_Test id="143" originalRow="143" groupSign="" debugClose="" action="角色挂件" data="lijiahu" param="动漫_惊讶" param2="头" param3="TRUE"/>
+<C2_VSLiJiahu_Test id="144" originalRow="144" groupSign="" debugClose="" action="关闭特效板" data="" param="" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="145" originalRow="145" groupSign="" debugClose="" action="特殊-闪白效果" data="1" param="" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="146" originalRow="146" groupSign="" debugClose="" action="镜头振动" data="1" param="" param2=""/>
+<C2_VSLiJiahu_Test id="147" originalRow="147" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{高级镜头,1v1李加虎,敌对正面视角}{角色动作,,李加虎_紧张_动作_结束_02}{角色表情,,李加虎_紧张_上脸_循环_01;李加虎_紧张_下嘴_开始_01}{播放音效,voice_slash}{#敌对舌战减血}呃……！" param2="呃。。。。" param3="type=4"/>
+<C2_VSLiJiahu_Test id="148" originalRow="148" groupSign="" debugClose="" action="角色挂件" data="lijiahu" param="动漫_惊讶" param2="头" param3="FALSE"/>
+<C2_VSLiJiahu_Test id="149" originalRow="149" groupSign="" debugClose="" action="角色挂件" data="lijiahu" param="动漫_紧张" param2="头" param3="TRUE"/>
+<C2_VSLiJiahu_Test id="150" originalRow="150" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{角色动作,,李加虎_着急_动作_开始_01}{角色表情,,李加虎_着急_上脸_开始_01;李加虎_着急_下嘴_开始_01}{s=0.2}…………{0.2}\n…………………………" param2="" param3="type=4"/>
+<C2_VSLiJiahu_Test id="151" originalRow="151" groupSign="" debugClose="" action="角色挂件" data="lijiahu" param="动漫_紧张" param2="头" param3="FALSE"/>
+<C2_VSLiJiahu_Test id="152" originalRow="152" groupSign="" debugClose="" action="角色动作" data="zhouyi" param="待机_循环_01" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="153" originalRow="153" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{角色动作,,李加虎_得意_动作_开始_01}{角色表情,,李加虎_害怕_上脸_开始_01;李加虎_开心_下嘴_开始_01}其实我确实{#闪白ding}没有看到啦，哈哈哈！" param2="其实我确实没有" param3="type=4"/>
+<C2_VSLiJiahu_Test<C2_VSLiJiahu_Test id="155" originalRow="155" groupSign="" debugClose="" action="跳转-标签" data="" param="舌战阶段三" param2=""/>
+<C2_VSLiJiahu_Test id="156" originalRow="156" groupSign="" debugClose="" action="" data="" param="" param2=""/>
+<C2_VSLiJiahu_Test id="157" originalRow="157" groupSign="舌战阶段三" debugClose="" action="" data="" param2=""/>
+<C2_VSLiJiahu_Test id="158" originalRow="158" groupSign="" debugClose="" action="高级镜头" data="1v1李加虎" param="正面双人视角" param2="0.7"/>
+<C2_VSLiJiahu_Test id="159" originalRow="159" groupSign="" debugClose="" action="角色表情" data="zhouyi" param="无奈_开始_02;无奈_开始_02" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="160" originalRow="160" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{0.9}{角色动作,,周易_无奈_动作_开始_01}&lt;color=#0b91ef&gt;（……就知道）&lt;/color&gt;" param2="。。。就知道" param3="type=4"/>
+<C2_VSLiJiahu_Test id="161" originalRow="161" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{0.7}{角色动作,,周易_无奈_动作_开始_03}{角色表情,,无奈_上脸_开始_01,无奈_下嘴_开始_01}&lt;color=#0b91ef&gt;（现在可是警方取证{0.2}，\n这家伙真的有搞明白自己的立场吗？）&lt;/color&gt;" param2="现在可是警方取证" param3="type=4"/>
+<C2_VSLiJiahu_Test id="162" originalRow="162" groupSign="" debugClose="" action="角色挂件" data="lijiahu" param="动漫_紧张" param2="头" param3="TRUE"/>
+<C2_VSLiJiahu_Test id="163" originalRow="163" groupSign="" debugClose="" action="角色表情" data="zhouyi" param="周易_无奈_上脸_开始_01;周易_平静_下嘴_开始_01" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="164" originalRow="164" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{高级镜头,1v1李加虎,正面双人视角}但是，我敢肯定{0.3}{角色动作,,李加虎_开心_动作_开始_02}{角色表情,,李加虎_紧张_上脸_开始_01;李加虎_紧张_下嘴_开始_01}\n{#闪白震punch}大肚饿鬼当时就在现场！" param2="但是我敢肯定大肚鬼" param3="type=4"/>
+<C2_VSLiJiahu_Test id="165" originalRow="165" groupSign="" debugClose="" action="角色挂件" data="lijiahu" param="动漫_紧张" param2="头" param3="FALSE"/>
+<C2_VSLiJiahu_Test id="166" originalRow="166" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{高级镜头,1v1李加虎,敌对正面视角,0.5}{角色表情,,李加虎_着急_上脸_开始_01;李加虎_着急_下嘴_开始_01}我有确切的证据！——{0.7}{角色动作,,李加虎_开心_动作_结束_02}" param2="我有确切的证据" param3="type=4"/>
+<C2_VSLiJiahu_Test id="167" originalRow="167" groupSign="" debugClose="" action="角色表情" data="zhouyi" param="周易_无奈_上脸_结束_01" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="168" originalRow="168" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{高级镜头,1v1李加虎,敌对正面大特写视角,0.3}整个办公室散发的血气和荧光，{角色动作,,李加虎_严肃_动作_开始_01}{1.45}{#闪白震punch}{角色表情,,李加虎_严肃_上脸_开始_01;李加虎_严肃_下嘴_开始_01}跟电影里一模一样！{播放音效,voice_ding}" param2="整个办公室散发的" param3="type=4"/>
+<C2_VSLiJiahu_Test id="169" originalRow="169" groupSign="" debugClose="" action="角色动作" data="zhouyi" param="周易_思考_动作_开始_01" param2=""/>
+<C2_VSLiJiahu_Test id="170" originalRow="170" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{高级镜头,1v1李加虎,玩家正面视角}{角色表情,,周易_思考_上脸_开始_01;周易_思考_下嘴_开始_01}&lt;color=#0b91ef&gt;（……这点倒是没有胡说）&lt;/color&gt;" param2="这点倒是没有胡说" param3="type=4"/>
+<C2_VSLiJiahu_Test id="171" originalRow="171" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="&lt;color=#0b91ef&gt;（现场除了黄绿色荧光，确实弥漫着浓重的血气{0.2}，\n似乎是某种生物的血液。）&lt;/color&gt;{角色表情,,周易_思考_上脸_结束_01;周易_思考_下嘴_结束_01}" param2="现场确实弥漫" param3="type=4"/>
+<C2_VSLiJiahu_Test id="172" originalRow="172" groupSign="" debugClose="" action="角色动作" data="zhouyi" param="周易_思考_动作_结束_01" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="173" originalRow="173" groupSign="" debugClose="" action="角色挂件" data="lijiahu" param="动漫_愤怒" param2="头" param3="TRUE"/>
+<C2_VSLiJiahu_Test id="174" originalRow="174" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{高级镜头,1v1李加虎,敌对正面视角,0.8}{角色动作,,李加虎_愤怒_动作_开始_01}{角色表情,,李加虎_愤怒_上脸_开始_01;李加虎_愤怒_下嘴_开始_01}更过分的是！{0.2}\n自动贩卖机里的零食{0.2}{#闪白震slash}全被吃光了！" param2="更过分的是自动" param3="type=4"/>
+<C2_VSLiJiahu_Test id="175" originalRow="175" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="昨天早上我来这打扫的时候，还是满满当当呢！" param2="昨天早上我来这打扫的时候" param3="type=4"/>
+<C2_VSLiJiahu_Test id="176" originalRow="176" groupSign="" debugClose="" action="角色挂件" data="lijiahu" param="动漫_愤怒" param2="头" param3="FALSE"/>
+<C2_VSLiJiahu_Test id="177" originalRow="177" groupSign="失败回舌战阶段三" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="178" originalRow="178" groupSign="" debugClose="" action="角色挂件" data="lijiahu" param="动漫_愤怒" param2="头" param3="TRUE"/>
+<C2_VSLiJiahu_Test id="179" originalRow="179" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="今天一看，我亲手补满货的熊字饼都被吃光了！" param2="今天一看我亲手补满货" param3="type=4"/>
+<C2_VSLiJiahu_Test id="180" originalRow="180" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="这可是我每天早上打扫最期待的东西呢!" param2="这可是我每天早上打扫" param3="type=4"/>
+<C2_VSLiJiahu_Test id="181" originalRow="181" debugClose="" action="角色台词" data="lijiahu" param="{角色动作,,李加虎_愤怒_动作_开始_01}{角色表情,,李加虎_愤怒_上脸_开始_01;李加虎_愤怒_下嘴_开始_01}可恶的大肚饿鬼！" param2="可恶的大肚鬼！" param3="type=4"/>
+<C2_VSLiJiahu_Test id="182" originalRow="182" debugClose="" action="角色台词" data="lijiahu" param="也只有它{0.3}{#闪白震slash}才能吃下这么一柜子零食！！" param2="也只有它才能吃下" param3="type=4"/>
+<C2_VSLiJiahu_Test id="183" originalRow="183" debugClose="" action="语法-数值" data="ri_自动贩卖机=1" param="" param2=""/>
+<C2_VSLiJiahu_Test id="184" originalRow="184" debugClose="" action="角色台词" data="zhouyi" param="{高级镜头,1v1李加虎,正面双人视角,0.7}&lt;color=#0b91ef&gt;（等等，每天早上打扫最期待的东西？）&lt;/color&gt;{vscourt=dialog}" param2="等等每天早上打扫" param3="type=4"/>
+<C2_VSLiJiahu_Test id="185" originalRow="185" debugClose="" action="" data="" param="" param2=""/>
+<C2_VSLiJiahu_Test id="186" originalRow="186" debugClose="" action="" data="" param="" param2=""/>
+<C2_VSLiJiahu_Test id="187" originalRow="187" groupSign="3_dialog1" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="188" originalRow="188" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{高级镜头,1v1李加虎,玩家特写视角}{#周易无奈动作}{#周易无奈表情}看来现在社会风气是真的提高了。" param2="看来现在社会风气" param3="type=4"/>
+<C2_VSLiJiahu_Test id="189" originalRow="189" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="大肚鬼都开始吃素了。" param2="大肚恶鬼都开始" param3="type=4"/>
+<C2_VSLiJiahu_Test id="190" originalRow="190" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="就是这样！" param2="就是这样" param3="type=4"/>
+<C2_VSLiJiahu_Test id="191" originalRow="191" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="没什么别的事，我还赶着去打下一份工呢。" param2="没什么别的事我还" param3="type=4"/>
+<C2_VSLiJiahu_Test id="192" originalRow="192" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="古德拜！" param2="古德拜" param3="type=4"/>
+<C2_VSLiJiahu_Test id="193" originalRow="193" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{高级镜头,1v1李加虎,玩家正面视角}&lt;color=#0b91ef&gt;(等下，我是不是忘了什么正事……)&lt;/color&gt;" param2="等下我是不是" param3="type=4"/>
+<C2_VSLiJiahu_Test id="194" originalRow="194" groupSign="" debugClose="" action="特殊-闪白效果" data="1" param="" param2=""/>
+<C2_VSLiJiahu_Test id="195" originalRow="195" groupSign="" debugClose="" action="镜头振动" data="1" param="" param2=""/>
+<C2_VSLiJiahu_Test id="196" originalRow="196" groupSign="" debugClose="" action="播放音效" data="voice_slash" param="" param2=""/>
+<C2_VSLiJiahu_Test<C2_VSLiJiahu_Test id="198" originalRow="198" groupSign="" debugClose="" action="跳转-标签" data="" param="失败回舌战阶段三"/>
+<C2_VSLiJiahu_Test id="199" originalRow="199" debugClose="" action="" data="" param=""/>
+<C2_VSLiJiahu_Test id="200" originalRow="200" groupSign="3_dialog2" debugClose="" action="" data="" param=""/>
+<C2_VSLiJiahu_Test id="201" originalRow="201" groupSign="" debugClose="" action="角色挂件" data="lijiahu" param="动漫_愤怒" param2="头" param3="FALSE"/>
+<C2_VSLiJiahu_Test id="202" originalRow="202" groupSign="" debugClose="" action="角色表情" data="lijiahu" param="李加虎_惊讶_上脸_开始_01" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="203" originalRow="203" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{高级镜头,1v1李加虎,敌对过肩视角,0.5}打扫时间不是每天早上吗？" param2="打扫时间不是" param3="type=4"/>
+<C2_VSLiJiahu_Test id="204" originalRow="204" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="为什么今天晚上你会在这儿？{播放音效,voice_lightpunsh}" param2="为什么今天晚上你" param3="type=4"/>
+<C2_VSLiJiahu_Test id="205" originalRow="205" groupSign="" debugClose="" action="角色动作" data="zhouyi" param="周易_胜利_动作_开始_02"/>
+<C2_VSLiJiahu_Test id="206" originalRow="206" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{角色转身,zhouyi,-70,0.1}我看晚上来偷吃熊字饼的大肚鬼{0.2}，\n&lt;size=50&gt;就是你自己吧！{0.3}&lt;/size&gt;{#闪白inspiration}{shake=1}{#李加虎惊讶动作}" param2="我看偷吃熊字饼" param3="type=4"/>
+<C2_VSLiJiahu_Test id="207" originalRow="207" groupSign="" debugClose="" action="角色动作" data="zhouyi" param="周易_待机_动作_循环_01"/>
+<C2_VSLiJiahu_Test id="208" originalRow="208" groupSign="" debugClose="" action="角色挂件" data="lijiahu" param="动漫_紧张" param2="头" param3="TRUE"/>
+<C2_VSLiJiahu_Test id="209" originalRow="209" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{高级镜头,1v1李加虎,敌对正面视角}{角色表情,,李加虎_害怕_上脸_开始_01;李加虎_紧张_下嘴_开始_01}这个……这个……" param2="这个。。。这个" param3="type=4"/>
+<C2_VSLiJiahu_Test id="210" originalRow="210" groupSign="" debugClose="" action="角色挂件" data="lijiahu" param="动漫_紧张" param2="头" param3="FALSE"/>
+<C2_VSLiJiahu_Test id="211" originalRow="211" groupSign="" debugClose="1" action="角色台词" data="lijiahu" param3="type=4"/>
+<C2_VSLiJiahu_Test id="212" originalRow="212" groupSign="" debugClose="" action="特殊-闪白效果" data="1" param=""/>
+<C2_VSLiJiahu_Test id="213" originalRow="213" groupSign="" debugClose="" action="镜头振动" data="1" param=""/>
+<C2_VSLiJiahu_Test id="214" originalRow="214" groupSign="" debugClose="" action="播放音效" data="voice_slash" param=""/>
+<C2_VSLiJiahu_Test id="215" originalRow="215" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{角色动作,,李加虎_着急_动作_开始_01}{角色表情,,李加虎_着急_上脸_开始_01;李加虎_着急_下嘴_开始_01}{#敌对舌战减血}呃…………{1.2}{角色动作,,李加虎_着急_动作_结束_01}{角色表情,,李加虎_着急_上脸_结束_01;李加虎_着急_下嘴_结束_01}{autoend}" param2="呃。。。。。" param3="type=4"/>
+<C2_VSLiJiahu_Test<C2_VSLiJiahu_Test id="217" originalRow="217" groupSign="" debugClose="" action="跳转-标签" data="" param="舌战阶段四" param2=""/>
+<C2_VSLiJiahu_Test id="218" originalRow="218" groupSign="" debugClose="" action="" data="" param="" param2=""/>
+<C2_VSLiJiahu_Test id="219" originalRow="219" groupSign="" debugClose="" action="" data="" param="" param2=""/>
+<C2_VSLiJiahu_Test id="220" originalRow="220" groupSign="舌战阶段四" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="221" originalRow="221" groupSign="" debugClose="" action="角色挂件" data="lijiahu" param="动漫_紧张" param2="头" param3="TRUE"/>
+<C2_VSLiJiahu_Test id="222" originalRow="222" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{角色动作,,李加虎_开心_动作_开始_01}{角色表情,,李加虎_害怕_上脸_开始_01;李加虎_着急_下嘴_开始_01}咳咳，我可是尽职尽责的清洁工{0.2}，\n今天早上肯定要来上班啦！" param2="咳咳我可是尽职尽责的" param3="type=4"/>
+<C2_VSLiJiahu_Test id="223" originalRow="223" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{角色表情,,李加虎_愤怒_上脸_开始_01;李加虎_愤怒_下嘴_开始_01}但是昨天晚上发生了那件事{0.2}，\n办公室搞得一团糟，一上午完全搞不完！" param2="但是昨天晚上发生了那件事" param3="type=4"/>
+<C2_VSLiJiahu_Test id="224" originalRow="224" groupSign="" debugClose="" action="角色挂件" data="lijiahu" param="动漫_紧张" param2="头" param3="FALSE"/>
+<C2_VSLiJiahu_Test id="225" originalRow="225" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{0.2}{角色动作,,李加虎_待机_动作_结束_01}{角色表情,,李加虎_打气_上脸_开始_01;李加虎_打气_下嘴_开始_01}作为一名想要承包整栋楼志向远大的的清洁工{0.2}，\n{#闪白inspiration}加班义不容辞！{1.3}" param2="作为一名想要承包" param3="type=4"/>
+<C2_VSLiJiahu_Test id="226" originalRow="226" groupSign="" debugClose="" action="高级镜头" data="1v1李加虎" param="玩家特写视角" param2="0.5" param3=""/>
+<C2_VSLiJiahu_Test id="227" originalRow="227" groupSign="" debugClose="" action="角色表情" data="zhouyi" param="惊讶_开始_01惊讶_开始_01" param2="0.4" param3=""/>
+<C2_VSLiJiahu_Test id="228" originalRow="228" groupSign="" debugClose="" action="镜头振动" data="1" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="229" originalRow="229" groupSign="" debugClose="" action="特殊-闪白效果" data="1" param="" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="230" originalRow="230" groupSign="1" debugClose="" action="播放音效" data="voice_inspiration" param=""/>
+<C2_VSLiJiahu_Test id="231" originalRow="231" groupSign="1" debugClose="" action="角色动作" data="zhouyi" param="思考_开始_03" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="232" originalRow="232" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="昨天晚上？那件事？" param2="昨天晚上那件事" param3="type=4"/>
+<C2_VSLiJiahu_Test id="233" originalRow="233" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{高级镜头,1v1李加虎,正面双人视角,0.2}{0.2}{角色动作,,周易_待机_循环_01}昨天发生过什么特别的事情吗？" param2="昨天发生过什么特别" param3="type=4"/>
+<C2_VSLiJiahu_Test id="234" originalRow="234" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{高级镜头,1v1李加虎,敌对特写视角,0.2}{0.2}{角色动作,,李加虎_得意_动作_开始_01}{角色表情,,李加虎_得意_上脸_开始_01;李加虎_得意_下嘴_开始_01}{0.5}哼哼！" param2="哼哼" param3="type=4"/>
+<C2_VSLiJiahu_Test id="235" originalRow="235" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="这件事可是公司的大秘密！{#李加虎得意动作恢复}" param2="这件事可是公司" param3="type=4"/>
+<C2_VSLiJiahu_Test id="236" originalRow="236" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{高级镜头,1v1李加虎,敌对正面视角,0.2}{0.2}{#李加虎不屑动作}{#李加虎不屑表情}就算咱俩是大学同学的关系{0.2}，\n我也不能告诉你！" param2="就算咱俩是大学" param3="type=4"/>
+<C2_VSLiJiahu_Test id="237" originalRow="237" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{#李加虎不屑2动作恢复}{#李加虎不屑表情恢复}这是只有像我这样的内部高级员工才有权知道的。" param2="这是只有像我这样" param3="type=4"/>
+<C2_VSLiJiahu_Test id="238" originalRow="238" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{高级镜头,1v1李加虎,玩家特写视角,0.2}{0.2}{角色动作,,无奈_开始_01}{角色表情,,无奈_开始_02;无奈_开始_02}{1}&lt;color=#0b91ef&gt;（……内部高级清洁工吗？）&lt;/color&gt;" param2="内部高级清洁工" param3="type=4"/>
+<C2_VSLiJiahu_Test id="239" originalRow="239" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="&lt;color=#0b91ef&gt;（被你知道的秘密{0.2}，\n应该也没法再称为秘密了吧……）&lt;/color&gt;" param2="被你知道的秘密" param3="type=4"/>
+<C2_VSLiJiahu_Test id="240" originalRow="240" groupSign="失败回舌战阶段四" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="241" originalRow="241" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{高级镜头,1v1李加虎,玩家正面视角,0.2}{0.2}{#周易怀疑表情}{0.2}{角色动作,,周易_思考_动作_开始_03}{0.8}&lt;color=#0b91ef&gt;（闹鬼现场头天发生过重大的事件？{0.5}\n而公司内部人员选择保密？）&lt;/color&gt;" param2="话说回来闹鬼现场" param3="type=4"/>
+<C2_VSLiJiahu_Test id="242" originalRow="242" groupSign="" debugClose="" action="播放音效" data="voice_inspiration" param="" param2=""/>
+<C2_VSLiJiahu_Test id="243" originalRow="243" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="&lt;color=#0b91ef&gt;（可能这就是事情的关键了。）&lt;/color&gt;{2.1}{角色动作,,周易_思考_动作_结束_01}" param2="可能这件事就是事情" param3="type=4"/>
+<C2_VSLiJiahu_Test id="244" originalRow="244" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="&lt;color=#0b91ef&gt;（要套出更多信息，看来得使用点小手段。）&lt;/color&gt;{vscourt=dialog}" param2="要套出更多信息" param3="type=4"/>
+<C2_VSLiJiahu_Test id="245" originalRow="245" groupSign="" debugClose="" action="" data="" param="" param2=""/>
+<C2_VSLiJiahu_Test id="246" originalRow="246" groupSign="4_dialog1" debugClose="" action="" data="" param="" param2=""/>
+<C2_VSLiJiahu_Test id="247" originalRow="247" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{角色动作,,周易_胜利_动作_开始_02}{高级镜头,1v1李加虎,敌对过肩视角}{角色转身,zhouyi,-60,0.3}{角色表情,,成功_开始_01;成功_开始_01}{0.3}你肯定老毛病又犯了，夸大其词。" param2="你肯定又犯老毛病了" param3="type=4"/>
+<C2_VSLiJiahu_Test id="248" originalRow="248" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="就一个晚上，这里能糟成什么样子啊？{#闪白震punch}{shake=1}" param2="就一个晚上这里" param3="type=4"/>
+<C2_VSLiJiahu_Test id="249" originalRow="249" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="肯定是你早上工作不用心！{#闪白震punch}{shake=1}{#李加虎惊讶动作}{#李加虎惊讶表情}{角色动作,,周易_待机_动作_循环_01}{角色表情,,成功_结束_01;成功_结束_01}" param2="肯定是你早上工作" param3="type=4"/>
+<C2_VSLiJiahu_Test id="250" originalRow="250" groupSign="1" debugClose="" action="角色台词" data="zhouyi" param="{高级镜头,1v1李加虎,正面双人视角,0.2}{0.2}顶石科技可是要求很高的大公司，{0.3}{角色动作,,周易_无奈_动作_开始_03}{#李加虎惊讶动作恢复}{#李加虎惊讶表情恢复}\n{0.5}我看你这样是干不了多久了。{角色表情,,思考_结束_02;怀疑_结束_01}" param2="顶石科技可是要求很高的" param3="type=4"/>
+<C2_VSLiJiahu_Test<C2_VSLiJiahu_Test id="252" originalRow="252" groupSign="" debugClose="" action="跳转-标签" data="" param="舌战阶段五" param2=""/>
+<C2_VSLiJiahu_Test id="253" originalRow="253" groupSign="" debugClose="" action="" data="" param="" param2=""/>
+<C2_VSLiJiahu_Test id="254" originalRow="254" groupSign="4_dialog2" debugClose="" action="" data="" param="" param2=""/>
+<C2_VSLiJiahu_Test id="255" originalRow="255" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{高级镜头,1v1李加虎,玩家特写视角,0.2}{0.2}不行！" param2="不行" param3="type=4"/>
+<C2_VSLiJiahu_Test id="256" originalRow="256" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="你今天必须得说！" param2="你今天必须得说" param3="type=4"/>
+<C2_VSLiJiahu_Test id="257" originalRow="257" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{高级镜头,1v1李加虎,敌对特写视角,0.2}{0.2}！！！{0.2}" param2="" param3="type=4"/>
+<C2_VSLiJiahu_Test id="258" originalRow="258" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{#李加虎不屑动作}{#李加虎不屑表情}哼哼哼，
+你以为使用强权就能使我屈服吗？" param2="你以为使用强权就"/>
+<C2_VSLiJiahu_Test id="259" originalRow="259" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{#闪白震punch}刚正不阿，是我在顶石科技的立命之本！\n你就算拿刀架在我的脖子上，我也不会说的！" param2="刚正不阿是我在顶石科技" param3="type=4"/>
+<C2_VSLiJiahu_Test id="260" originalRow="260" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{高级镜头,1v1李加虎,玩家特写视角,0.2}{0.2}{#周易无奈动作}{#周易无奈表情}&lt;color=#0b91ef&gt;(也不能真拿他怎么样\n……还是再想想吧。)&lt;/color&gt;" param2="也不能真拿他怎么样" param3="type=4"/>
+<C2_VSLiJiahu_Test id="261" originalRow="261" groupSign="" debugClose="" action="特殊-闪白效果" data="1" param="" param2=""/>
+<C2_VSLiJiahu_Test id="262" originalRow="262" groupSign="" debugClose="" action="镜头振动" data="1" param="" param2=""/>
+<C2_VSLiJiahu_Test id="263" originalRow="263" groupSign="" debugClose="" action="播放音效" data="voice_slash" param="" param2=""/>
+<C2_VSLiJiahu_Test<C2_VSLiJiahu_Test id="265" originalRow="265" groupSign="" debugClose="" action="跳转-标签" data="" param="失败回舌战阶段四" param2=""/>
+<C2_VSLiJiahu_Test id="266" originalRow="266" groupSign="" debugClose="" action="" data="" param="" param2=""/>
+<C2_VSLiJiahu_Test id="267" originalRow="267" groupSign="舌战阶段五" debugClose="" action="" data="" param="" param2=""/>
+<C2_VSLiJiahu_Test id="268" originalRow="268" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{高级镜头,1v1李加虎,敌对特写视角,0.5}{角色表情,,李加虎_着急_上脸_开始_01;李加虎_着急_下嘴_开始_01}{0.3}{角色动作,,李加虎_愤怒_动作_开始_01}{0.6}{角色动作,,李加虎_开心_动作_开始_02}{角色表情,,李加虎_愤怒_上脸_开始_01;李加虎_愤怒_下嘴_开始_01}{#闪白震slash}我说的话千真万确！\n{#闪白震slash}&lt;b&gt;你可不能否定我的专业！&lt;/b&gt;" param2="我说的话千真万确" param3="type=4"/>
+<C2_VSLiJiahu_Test id="269" originalRow="269" groupSign="" debugClose="" action="角色动作" data="zhouyi" param="周易_思考_动作_结束_01" param2=""/>
+<C2_VSLiJiahu_Test id="270" originalRow="270" groupSign="" debugClose="" action="角色表情" data="zhouyi" param="平静_开始_01;平静_开始_01" param2=""/>
+<C2_VSLiJiahu_Test id="271" originalRow="271" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{高级镜头,1v1李加虎,敌对正面视角,0.3}{#李加虎思考动作}{#李加虎思考表情}{0.3}昨天早上来打扫的时候，还干干净净的。" param2="昨天早上来的时候" param3="type=4"/>
+<C2_VSLiJiahu_Test id="272" originalRow="272" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{角色表情,,李加虎_愤怒_上脸_开始_01;李加虎_愤怒_下嘴_开始_01}{0.3}今天早上来看，就脏的不成样子！" param2="今天早上来看" param3="type=4"/>
+<C2_VSLiJiahu_Test id="273" originalRow="273" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="简直像是有人在这儿住了好久，还邋邋遢遢的。{#李加虎思考动作恢复}" param2="简直像是有人在这" param3="type=4"/>
+<C2_VSLiJiahu_Test id="274" originalRow="274" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{角色动作,,李加虎_开心_动作_开始_02}{0.5}我不相信这是人类{#闪白ding}一晚上能弄出来的痕迹。" param2="我不相信这是人类" param3="type=4"/>
+<C2_VSLiJiahu_Test id="275" originalRow="275" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{角色动作,,李加虎_愤怒_动作_开始_01}{高级镜头,1v1李加虎,敌对正面大特写视角,0.2}{0.2}{角色表情,,李加虎_愤怒_上脸_开始_01;李加虎_愤怒_下嘴_开始_01}没错！一定就是大肚饿鬼！{0.2}\n可恶的饿鬼！（舞动扫把）" param2="没错一定就是大肚恶鬼" param3="type=4"/>
+<C2_VSLiJiahu_Test id="276" originalRow="276" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{高级镜头,1v1李加虎,正面双人视角,0.5}{角色表情,,周易_胜利_上脸_开始_01;周易_胜利_下嘴_开始_01}{0.3}&lt;color=#0b91ef&gt;（大肚饿鬼……）&lt;/color&gt;" param2="大肚恶鬼。。。" param3="type=4"/>
+<C2_VSLiJiahu_Test id="277" originalRow="277" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{角色动作,,周易_无奈_动作_开始_02}{0.8}打扫不干净不能怪地板脏！" param2="打扫不干净不能怪" param3="type=4"/>
+<C2_VSLiJiahu_Test id="278" originalRow="278" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="你真的有认真打扫吗？我很怀疑。{角色表情,,周易_无奈_上脸_开始_02;周易_无奈_下嘴_开始_02}" param2="你真的有认真打扫吗" param3="type=4"/>
+<C2_VSLiJiahu_Test id="279" originalRow="279" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{高级镜头,1v1李加虎,敌对特写视角,0.2}{#李加虎开心2动作}{0.2}{#李加虎严肃表情}{0.2}本地面美容师的工作态度不容质疑！" param2="本地面美容师" param3="type=4"/>
+<C2_VSLiJiahu_Test id="280" originalRow="280" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{角色动作,,李加虎_打气_动作_开始_01}{角色表情,,李加虎_得意_上脸_开始_01;李加虎_得意_下嘴_开始_01}{0.8}经过今晚我使出九牛二虎之力的加班{0.2}，\n终于把地面完全搞定。（舞动扫帚）" param2="经过今晚我使出九牛二虎之力" param3="type=4"/>
+<C2_VSLiJiahu_Test id="281" originalRow="281" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{#李加虎打气动作}{#李加虎打气表情}{#闪白震punch}废弃的包装袋、{0.6}{#闪白震punch}墙面的污渍、{0.6}{#闪白震punch}奇怪的白线{0.2}，\n都清理的{0.1}干{0.1}干{0.1}净{0.1}净{0.1}！" param2="废弃的包装袋" param3="type=4"/>
+<C2_VSLiJiahu_Test id="282" originalRow="282" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{#李加虎打气动作恢复}{#李加虎打气表情恢复}邪恶的污渍被我彻底消灭，{#闪白ding}正义执行！" param2="邪恶的污渍被我" param3="type=4"/>
+<C2_VSLiJiahu_Test id="283" originalRow="283" groupSign="" debugClose="" action="停止音乐" data="" param="" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="284" originalRow="284" groupSign="" debugClose="" action="高级镜头" data="1v1李加虎" param="正面双人视角" param2="0.5" param3=""/>
+<C2_VSLiJiahu_Test id="285" originalRow="285" groupSign="" debugClose="" action="角色表情" data="zhouyi" param="惊讶_开始_01;惊讶_开始_01" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="286" originalRow="286" groupSign="" debugClose="" action="镜头振动" data="1" param="" param2=""/>
+<C2_VSLiJiahu_Test id="287" originalRow="287" groupSign="" debugClose="" action="特殊-闪白效果" data="1" param="" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="288" originalRow="288" groupSign="1" debugClose="" action="播放音效" data="voice_inspiration" param=""/>
+<C2_VSLiJiahu_Test id="289" originalRow="289" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{#周易思考动作}{#周易思考表情}等一下！" param2="等一下" param3="type=4"/>
+<C2_VSLiJiahu_Test id="290" originalRow="290" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="奇怪的白线是什么？{#周易思考动作恢复}{#周易思考表情恢复}" param2="奇怪的白线是什么" param3="type=4"/>
+<C2_VSLiJiahu_Test id="291" originalRow="291" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{高级镜头,1v1李加虎,敌对特写视角}{#李加虎不屑动作}{#李加虎不屑表情}哼哼，少见多怪，这你都不知道？" param2="哼哼少见多怪" param3="type=4"/>
+<C2_VSLiJiahu_Test id="292" originalRow="292" debugClose="" action="角色台词" data="lijiahu" param="就是画在地上的那种白色粗线{0.2}，\n还挺像个人形的。{0.1}{#李加虎不屑动作恢复}{#李加虎不屑表情恢复}" param2="就是画在地上的那种" param3="type=4"/>
+<C2_VSLiJiahu_Test id="293" originalRow="293" groupSign="失败回舌战阶段五" debugClose="" action="" data="" param="" param2=""/>
+<C2_VSLiJiahu_Test id="294" originalRow="294" groupSign="" debugClose="" action="播放音乐" data="bgm_1v1" param="TRUE" param2="1|1" param3=""/>
+<C2_VSLiJiahu_Test id="295" originalRow="295" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{高级镜头,1v1李加虎,玩家特写视角}{角色动作,,周易_思考_动作_开始_01}&lt;color=#0b91ef&gt;（画在地上的人型白线？）&lt;/color&gt;" param2="画在地上的人型白线" param3="type=4"/>
+<C2_VSLiJiahu_Test id="296" originalRow="296" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{高级镜头,1v1李加虎,玩家正面大特写视角}{打开特效板,,,avg_effect_1v1_imagination}&lt;color=#0b91ef&gt;（那个就不是？）&lt;/color&gt;{0.5}{角色动作,,周易_思考_动作_结束_01}" param2="那个不就是" param3="type=4"/>
+<C2_VSLiJiahu_Test id="297" originalRow="297" groupSign="" debugClose="" action="关闭特效板" data="" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="298" originalRow="298" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="如果没猜错的话，昨天晚上这里发生的事就是——{vscourt=dialog}" param2="如果没猜错的话" param3="type=4"/>
+<C2_VSLiJiahu_Test id="299" originalRow="299" groupSign="" debugClose="" action="" data="" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="300" originalRow="300" groupSign="5_dialog1" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="301" originalRow="301" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{高级镜头,1v1李加虎,玩家特写视角,0.2}不会是重新装修了房间吧！" param2="重新装修了房间吧" param3="type=4"/>
+<C2_VSLiJiahu_Test id="302" originalRow="302" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{高级镜头,1v1李加虎,敌对特写视角,0.2}{角色动作,,李加虎_不屑_动作_开始_01}{角色表情,,李加虎_不屑_上脸_开始_01;李加虎_不屑_下嘴_开始_01}啊？装修房间会用到人型白线吗啊？" param2="啊装修房间会用到" param3="type=4"/>
+<C2_VSLiJiahu_Test id="303" originalRow="303" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{高级镜头,1v1李加虎,玩家特写视角,0.2}好像是不会……" param2="好像是不会" param3="type=4"/>
+<C2_VSLiJiahu_Test id="304" originalRow="304" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="可恶，太草率了，再仔细思考一下。" param2="可恶太草率了" param3="type=4"/>
+<C2_VSLiJiahu_Test id="305" originalRow="305" groupSign="" debugClose="" action="特殊-闪白效果" data="1" param="" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="306" originalRow="306" groupSign="" debugClose="" action="播放音效" data="voice_slash" param="" param2=""/>
+<C2_VSLiJiahu_Test id="307" originalRow="307" groupSign="" debugClose="" action="镜头振动" data="1" param="" param2=""/>
+<C2_VSLiJiahu_Test<C2_VSLiJiahu_Test id="309" originalRow="309" groupSign="" debugClose="" action="跳转-标签" data="" param="失败回舌战阶段五" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="310" originalRow="310" groupSign="" debugClose="" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="311" originalRow="311" groupSign="5_dialog2" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="312" originalRow="312" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{高级镜头,1v1李加虎,玩家特写视角,0.2}昨天这里发生了死亡事件！" param2="有人昨晚死在这里了" param3="type=4"/>
+<C2_VSLiJiahu_Test id="313" originalRow="313" groupSign="" debugClose="" action="角色移动" data="lijiahu" param="周易个人镜头被指正位置" param2="0" param3="FALSE;TRUE"/>
+<C2_VSLiJiahu_Test id="314" originalRow="314" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{新角色镜头,zhouyi,个人镜头_周易_指正_1}{打开特效板,,,avg_effect_1v1_speedLine_Front_hori}{打开特效板,,,avg_effect_1v1_speedLine_ex_hori}白色的粗线就是警方画的&lt;color=#ECFE1E&gt;尸体轮廓线&lt;/color&gt;吧！{2}{特殊-闪白效果,1}{0.5}{autoend}" param2="白色的粗线就是" param3="type=4"/>
+<C2_VSLiJiahu_Test id="315" originalRow="315" groupSign="" debugClose="" action="关闭特效板" data="" param="" param2=""/>
+<C2_VSLiJiahu_Test id="316" originalRow="316" groupSign="" debugClose="" action="角色镜头关闭" data="" param="" param2=""/>
+<C2_VSLiJiahu_Test id="317" originalRow="317" groupSign="" debugClose="" action="移除角色" data="lijiahu" param="" param2=""/>
+<C2_VSLiJiahu_Test id="318" originalRow="318" groupSign="" debugClose="" action="打开特效板" data="" param="" param2="avg_effect_1v1_speedLine_Front_hori"/>
+<C2_VSLiJiahu_Test id="319" originalRow="319" groupSign="" debugClose="" action="打开特效板" data="" param="" param2="avg_effect_1v1_speedLine_ex_hori"/>
+<C2_VSLiJiahu_Test id="320" originalRow="320" groupSign="0.66" debugClose="" action="新角色镜头" data="zhouyi" param="个人镜头_周易_指正_2" param2=""/>
+<C2_VSLiJiahu_Test id="321" originalRow="321" groupSign="" debugClose="" action="特殊-闪白效果" data="1" param="" param2=""/>
+<C2_VSLiJiahu_Test id="322" originalRow="322" groupSign="" debugClose="" action="关闭特效板" data="" param="" param2=""/>
+<C2_VSLiJiahu_Test id="323" originalRow="323" groupSign="" debugClose="" action="角色镜头关闭" data="" param="" param2=""/>
+<C2_VSLiJiahu_Test id="324" originalRow="324" groupSign="" debugClose="" action="打开特效板" data="" param="" param2="avg_effect_1v1_speedLine_ex"/>
+<C2_VSLiJiahu_Test id="325" originalRow="325" groupSign="0.933" debugClose="" action="新角色镜头" data="zhouyi" param="个人镜头_周易_指正_3" param2=""/>
+<C2_VSLiJiahu_Test id="326" originalRow="326" groupSign="" debugClose="" action="特殊-闪白效果" data="1" param="" param2=""/>
+<C2_VSLiJiahu_Test id="327" originalRow="327" groupSign="" debugClose="" action="关闭特效板" data="" param="" param2=""/>
+<C2_VSLiJiahu_Test id="328" originalRow="328" groupSign="" debugClose="" action="角色镜头关闭" data="" param="" param2=""/>
+<C2_VSLiJiahu_Test id="329" originalRow="329" groupSign="" debugClose="" action="设置角色" data="lijiahu" param="敌对起始位置" param2="" param3="FALSE;TURE;FALSE"/>
+<C2_VSLiJiahu_Test id="330" originalRow="330" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{角色动作,,李加虎_惊讶_动作_开始_01}{#闪白震slash}{角色表情,,李加虎_惊讶_上脸_开始_01;李加虎_惊讶_下嘴_开始_01}！！！" param2="！！！！" param3="type=4"/>
+<C2_VSLiJiahu_Test id="331" originalRow="331" groupSign="" debugClose="" action="移除角色" data="zhouyi" param="" param2="" param3="FALSE;FALSE;FALSE"/>
+<C2_VSLiJiahu_Test id="332" originalRow="332" groupSign="" debugClose="" action="打开特效板" data="" param="" param2="avg_effect_1v1_speedLine" param3=""/>
+<C2_VSLiJiahu_Test id="333" originalRow="333" groupSign="" debugClose="" action="角色动作" data="lijiahu" param="李加虎_击破_动作_开始_01" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="334" originalRow="334" groupSign="" debugClose="" action="角色表情" data="lijiahu" param="李加虎_击破_上脸_开始_01;李加虎_击破_下嘴_开始_01" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="335" originalRow="335" groupSign="20.4" debugClose="" action="新角色镜头" data="lijiahu" param="个人镜头_李加虎_击溃" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="336" originalRow="336" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="被、{0.3}&lt;size=45&gt;被&lt;/size&gt;&lt;size=50&gt;你&lt;/size&gt;&lt;size=55&gt;猜&lt;/size&gt;&lt;size=60&gt;到&lt;/size&gt;&lt;size=65&gt;了！！&lt;/size&gt;" param2="被被你猜到了" param3="type=4"/>
+<C2_VSLiJiahu_Test id="337" originalRow="337" groupSign="" debugClose="" action="角色镜头关闭" data="" param="" param2=""/>
+<C2_VSLiJiahu_Test id="338" originalRow="338" groupSign="" debugClose="" action="设置角色" data="zhouyi" param="玩家起始位置" param2="" param3="FALSE;TURE;FALSE"/>
+<C2_VSLiJiahu_Test id="339" originalRow="339" groupSign="" debugClose="" action="特殊-闪白效果" data="1" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="340" originalRow="340" groupSign="" debugClose="" action="镜头振动" data="1" param="" param2=""/>
+<C2_VSLiJiahu_Test id="341" originalRow="341" groupSign="" debugClose="" action="播放音效" data="voice_slash" param="" param2=""/>
+<C2_VSLiJiahu_Test<C2_VSLiJiahu_Test id="343" originalRow="343" groupSign="" debugClose="" action="跳转-标签" data="" param="舌战胜利结束阶段" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="344" originalRow="344" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="345" originalRow="345" groupSign="5_dialog3" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="346" originalRow="346" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{高级镜头,1v1李加虎,玩家特写视角,0.2}难道是有人在这举行邪恶的仪式？" param2="有人举行邪恶的" param3="type=4"/>
+<C2_VSLiJiahu_Test id="347" originalRow="347" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{高级镜头,1v1李加虎,敌对特写视角,0.2}{角色动作,,李加虎_忧伤_动作_开始_01}{角色表情,,李加虎_忧伤_上脸_开始_01;李加虎_严肃_下嘴_开始_01}对！" param2="对！" param3="type=4"/>
+<C2_VSLiJiahu_Test id="348" originalRow="348" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="大肚饿鬼肯定就是这么召唤出来的！" param2="大肚恶鬼肯定就是" param3="type=4"/>
+<C2_VSLiJiahu_Test id="349" originalRow="349" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{高级镜头,1v1李加虎,玩家特写视角,0.2}额……感觉正中他下怀……" param2="额感觉正中他下怀" param3="type=4"/>
+<C2_VSLiJiahu_Test id="350" originalRow="350" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="要不再想想吧……" param2="要不再想想吧" param3="type=4"/>
+<C2_VSLiJiahu_Test id="351" originalRow="351" groupSign="" debugClose="" action="特殊-闪白效果" data="1" param="" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="352" originalRow="352" groupSign="" debugClose="" action="镜头振动" data="1" param="" param2=""/>
+<C2_VSLiJiahu_Test id="353" originalRow="353" groupSign="" debugClose="" action="播放音效" data="voice_slash" param="" param2=""/>
+<C2_VSLiJiahu_Test<C2_VSLiJiahu_Test id="355" originalRow="355" groupSign="" debugClose="" action="跳转-标签" data="" param="失败回舌战阶段五" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="356" originalRow="356" debugClose="" action="" data="" param="" param2=""/>
+<C2_VSLiJiahu_Test id="357" originalRow="357" groupSign="舌战胜利结束阶段" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="358" originalRow="358" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{高级镜头,1v1李加虎,敌对正面视角}{shake=3}&lt;size=60&gt;你是怎么猜到的！！！&lt;/size&gt;" param2="你是怎么猜到的" param3="type=4"/>
+<C2_VSLiJiahu_Test id="359" originalRow="359" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="{高级镜头,1v1李加虎,敌对特写视角,0.2}{#闪白震punch}完了完了！{#闪白震slash}老板让我不要说出去的！！！" param2="完了完了老板让我" param3="type=4"/>
+<C2_VSLiJiahu_Test id="360" originalRow="360" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="你可千万不能告诉别人啊！！" param2="你可千万不能告诉别人啊" param3="type=4"/>
+<C2_VSLiJiahu_Test id="361" originalRow="361" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{高级镜头,1v1李加虎,玩家特写视角,0.2}没问题！我当然可以替你保密。" param2="没问题我当然可以替你保密" param3="type=4"/>
+<C2_VSLiJiahu_Test id="362" originalRow="362" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="{高级镜头,1v1李加虎,玩家正面大特写视角}但你得告诉我——{0.2}\n昨晚{0.3}{s=0.2}到底{s=0.03}发生了什么？" param2="但你得告诉我昨晚" param3=""/>
+<C2_VSLiJiahu_Test id="363" originalRow="363" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="364" originalRow="364" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="365" originalRow="365" groupSign="舌战失败结束阶段" debugClose="" action="" data="" param="" param2="" param3=""/>
+<C2_VSLiJiahu_Test id="366" originalRow="366" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="就是这样！" param2="就是这样" param3="type=4"/>
+<C2_VSLiJiahu_Test id="367" originalRow="367" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="没什么别的事，我还赶着去打下一份工呢。" param2="没什么别的事我还" param3="type=4"/>
+<C2_VSLiJiahu_Test id="368" originalRow="368" groupSign="" debugClose="" action="角色台词" data="lijiahu" param="古德拜！" param2="古德拜" param3="type=4"/>
+<C2_VSLiJiahu_Test id="369" originalRow="369" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="别！别！别！" param2="别别别" param3="type=4"/>
+<C2_VSLiJiahu_Test id="370" originalRow="370" debugClose="" action="角色台词" data="zhouyi" param="别走！再给我一次机会！" param2="别走再给我一次机会" param3="type=4"/>
+<C2_VSLiJiahu_Test id="371" originalRow="371" groupSign="" debugClose="" action="角色台词" data="zhouyi" param="我还有些问题要问！" param2="我还有些问题要问" param3="type=4"/>
+<C2_VSLiJiahu_Test id="372" originalRow="372" groupSign="" debugClose="" action="跳转-标签" data="" param="结束" param2=""/>
+<C2_VSLiJiahu_Test id="373" originalRow="373" groupSign="结束" debugClose="" action="" data="" param="" param2=""/>
+</root>

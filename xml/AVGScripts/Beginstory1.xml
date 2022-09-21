@@ -1,0 +1,29 @@
+<root>
+<beginstory1 id="0" originalRow="0" groupSign="" debugClose="1" action="设置场号" data="avg_basic_scene" param="" param2="" param3=""/>
+<beginstory1 id="1" originalRow="1" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story" param="" param2="" param3=""/>
+<beginstory1 id="2" originalRow="2" groupSign="" debugClose="" action="镜头切换" data="camchar1" param="" param2="" param3=""/>
+<beginstory1 id="3" originalRow="3" groupSign="首章剧情开启-金融街夜景" debugClose="" action="" data="" param="" param2="" param3=""/>
+<beginstory1 id="4" originalRow="4" groupSign="" debugClose="" action="故事板" data="1" param="01
+消失的异质物" param2="" param3=""/>
+<beginstory1 id="5" originalRow="5" groupSign="" debugClose="" action="打开特效板" data="0" param="5_bridge" param2="" param3=""/>
+<beginstory1 id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="" param="公元2037年" param2="" param3="type=1"/>
+<beginstory1 id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="" param="我从小在这座城市长大，今年刚大学毕业。" param2="" param3="type=1"/>
+<beginstory1 id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="" param="不久前，我收到一份“特招项目”的Offer，不知是这几个月我胡乱填写的哪张报名表中签了……" param2="" param3="type=1"/>
+<beginstory1 id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="" param="这一个政府机关的项目，工作地点在市中心。" param2="" param3="type=1"/>
+<beginstory1 id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="" param="虽然是无编制岗位，但对方开出的条件完全超过了我的预期。" param2="" param3="type=1"/>
+<beginstory1 id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="" param="不仅薪资很让人满意，工作满五年还许诺免除我那笔数额不菲的助学贷款……" param2="" param3="type=1"/>
+<beginstory1 id="12" originalRow="12" groupSign="" debugClose="" action="角色台词" data="" param="难道是哪个今年才开放没人知道的特招项目被我捡漏了？" param2="" param3="type=1"/>
+<beginstory1 id="13" originalRow="13" groupSign="" debugClose="" action="角色台词" data="" param="我带着种种猜测，反复检查确认了好几遍随包裹附赠的工作证：" param2="" param3="type=1"/>
+<beginstory1 id="14" originalRow="14" groupSign="" debugClose="" action="关闭特效板" data="" param="" param2="" param3=""/>
+<beginstory1 id="15" originalRow="15" groupSign="" debugClose="" action="打开特效板" data="0" param="" param2="avg_effect_NameBoard" param3=""/>
+<beginstory1 id="16" originalRow="16" groupSign="引导玩家取名" debugClose="" action="" data="" param="" param2="" param3=""/>
+<beginstory1 id="17" originalRow="17" groupSign="" debugClose="" action="角色台词" data="" param="没错，我就是这个幸运之子！" param2="" param3="type=1"/>
+<beginstory1 id="18" originalRow="18" groupSign="" debugClose="" action="角色台词" data="" param="那一夜，我感到自己的未来一片光明。" param2="" param3="type=1"/>
+<beginstory1 id="19" originalRow="19" groupSign="" debugClose="" action="角色台词" data="" param="然而幸运总有其代价──" param2="" param3="type=1"/>
+<beginstory1 id="20" originalRow="20" groupSign="" debugClose="" action="特效板动作" data="" param="" param2="avg_effect_NameBoard" param3="start"/>
+<beginstory1 id="21" originalRow="21" groupSign="" debugClose="" action="角色台词" data="" param="就在我工作报到的第一天。" param2="" param3="type=1"/>
+<beginstory1 id="22" originalRow="22" groupSign="" debugClose="" action="角色台词" data="" param="是的，{macro=macro_震屏闪白}我死了。{macro=macro_震屏闪白}我死了。{macro=macro_震屏闪白}我死了。{macro=macro_震屏闪白}我死了。{macro=macro_震屏闪白}我死了。{macro=macro_震屏闪白}我死了。" param2="" param3="type=1"/>
+<beginstory1 id="23" originalRow="23" groupSign="" debugClose="" action="角色台词" data="" param="正如茨威格所说：“所有命运的馈赠，其实早已暗中标注了价格。”" param2="" param3="type=1"/>
+<beginstory1 id="24" originalRow="24" groupSign="" debugClose="" action="角色台词" data="" param="我可真是个笨蛋…" param2="" param3="type=1"/>
+<beginstory1 id="25" originalRow="25" groupSign="" debugClose="" action="切换场景" data="Dormitory_demo" param="" param2="" param3=""/>
+</root>

@@ -1,0 +1,185 @@
+2022-09-13 16:12:16,578 [INFO ] [main] com.mobi.config.log.GameLog hello, qwert
+2022-09-13 16:14:34,861 [ERROR] [main] com.mobi.config.log.GameLog [EX]java.io.FileNotFoundException: C:\svn\06_tools_sourcecode\ExcelParser\data\Character.xml (系统找不到指定的路径。)
+2022-09-13 16:16:07,374 [ERROR] [main] com.mobi.config.log.GameLog [EX]java.io.FileNotFoundException: C:\svn\06_tools_sourcecode\ExcelParser\data\Character.xml (系统找不到指定的路径。)
+2022-09-13 16:22:01,627 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CharacterConfigModel|field:character_type|val:IN:[1;2]
+2022-09-13 16:22:01,629 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CharacterConfigModel|field:gender|val:IN:[1;2]
+2022-09-13 16:22:01,630 [ERROR] [main] com.mobi.config.log.GameLog 解析表class com.mobi.config.configModel.CharacterConfigModel时 ArrArrInt数据错误
+2022-09-13 16:22:01,631 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CharacterConfigModel|field:id|val:LimitRow
+2022-09-13 16:22:01,635 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.MonsterConfigModel|field:character_type|val:1.0
+2022-09-13 16:22:01,636 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.MonsterConfigModel|field:gender|val:2.0
+2022-09-13 16:22:01,636 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.MonsterConfigModel|field:model_id|val:101.0
+2022-09-13 16:22:01,636 [ERROR] [main] com.mobi.config.log.GameLog 解析表class com.mobi.config.configModel.MonsterConfigModel时 ArrArrInt数据错误
+2022-09-13 16:22:01,638 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.HeroConfigModel|field:gender|val:2.0
+2022-09-13 16:22:01,639 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.HeroConfigModel|field:model_id|val:11.0
+2022-09-13 16:22:01,641 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.MonsterGroupConfigModel|field:group_gid|val:1.0
+2022-09-13 16:22:01,643 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CardConfigModel|field:gender|val:2.0
+2022-09-13 16:22:01,643 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CardConfigModel|field:model_id|val:100.0
+2022-09-13 16:22:14,659 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CharacterConfigModel|field:character_type|val:IN:[1;2]
+2022-09-13 16:22:14,663 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CharacterConfigModel|field:gender|val:IN:[1;2]
+2022-09-13 16:22:14,663 [ERROR] [main] com.mobi.config.log.GameLog 解析表class com.mobi.config.configModel.CharacterConfigModel时 ArrArrInt数据错误
+2022-09-13 16:22:14,663 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CharacterConfigModel|field:id|val:LimitRow
+2022-09-13 16:22:14,669 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.MonsterConfigModel|field:character_type|val:1.0
+2022-09-13 16:22:14,669 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.MonsterConfigModel|field:gender|val:2.0
+2022-09-13 16:22:14,669 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.MonsterConfigModel|field:model_id|val:101.0
+2022-09-13 16:22:14,669 [ERROR] [main] com.mobi.config.log.GameLog 解析表class com.mobi.config.configModel.MonsterConfigModel时 ArrArrInt数据错误
+2022-09-13 16:22:14,671 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.HeroConfigModel|field:gender|val:2.0
+2022-09-13 16:22:14,672 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.HeroConfigModel|field:model_id|val:11.0
+2022-09-13 16:22:14,674 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.MonsterGroupConfigModel|field:group_gid|val:1.0
+2022-09-13 16:22:14,677 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CardConfigModel|field:gender|val:2.0
+2022-09-13 16:22:14,677 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CardConfigModel|field:model_id|val:100.0
+2022-09-13 19:42:36,047 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CharacterConfigModel|field:character_type|val:IN:[1;2]
+2022-09-13 19:42:36,050 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CharacterConfigModel|field:gender|val:IN:[1;2]
+2022-09-13 19:42:36,051 [ERROR] [main] com.mobi.config.log.GameLog 解析表class com.mobi.config.configModel.CharacterConfigModel时 ArrArrInt数据错误
+2022-09-13 19:42:36,051 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CharacterConfigModel|field:id|val:LimitRow
+2022-09-13 19:42:36,055 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.MonsterConfigModel|field:character_type|val:1.0
+2022-09-13 19:42:36,055 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.MonsterConfigModel|field:gender|val:2.0
+2022-09-13 19:42:36,055 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.MonsterConfigModel|field:model_id|val:101.0
+2022-09-13 19:42:36,055 [ERROR] [main] com.mobi.config.log.GameLog 解析表class com.mobi.config.configModel.MonsterConfigModel时 ArrArrInt数据错误
+2022-09-13 19:42:36,057 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.HeroConfigModel|field:gender|val:2.0
+2022-09-13 19:42:36,057 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.HeroConfigModel|field:model_id|val:11.0
+2022-09-13 19:42:36,059 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.MonsterGroupConfigModel|field:group_gid|val:1.0
+2022-09-13 19:42:36,061 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CardConfigModel|field:gender|val:2.0
+2022-09-13 19:42:36,062 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CardConfigModel|field:model_id|val:100.0
+2022-09-13 20:28:16,312 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CharacterConfigModel|field:character_type|val:IN:[1;2]
+2022-09-13 20:28:16,313 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CharacterConfigModel|field:gender|val:IN:[1;2]
+2022-09-13 20:28:16,314 [ERROR] [main] com.mobi.config.log.GameLog 解析表class com.mobi.config.configModel.CharacterConfigModel时 ArrArrInt数据错误
+2022-09-13 20:28:16,314 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CharacterConfigModel|field:id|val:LimitRow
+2022-09-13 20:28:16,318 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.MonsterConfigModel|field:character_type|val:1.0
+2022-09-13 20:28:16,318 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.MonsterConfigModel|field:gender|val:2.0
+2022-09-13 20:28:16,319 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.MonsterConfigModel|field:model_id|val:101.0
+2022-09-13 20:28:16,319 [ERROR] [main] com.mobi.config.log.GameLog 解析表class com.mobi.config.configModel.MonsterConfigModel时 ArrArrInt数据错误
+2022-09-13 20:28:16,320 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.HeroConfigModel|field:gender|val:2.0
+2022-09-13 20:28:16,320 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.HeroConfigModel|field:model_id|val:11.0
+2022-09-13 20:28:16,322 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.MonsterGroupConfigModel|field:group_gid|val:1.0
+2022-09-13 20:28:16,324 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CardConfigModel|field:gender|val:2.0
+2022-09-13 20:28:16,325 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CardConfigModel|field:model_id|val:100.0
+2022-09-13 20:30:12,284 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CharacterConfigModel|field:character_type|val:IN:[1;2]
+2022-09-13 20:30:12,288 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CharacterConfigModel|field:gender|val:IN:[1;2]
+2022-09-13 20:30:12,289 [ERROR] [main] com.mobi.config.log.GameLog 解析表class com.mobi.config.configModel.CharacterConfigModel时 ArrArrInt数据错误
+2022-09-13 20:30:12,289 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CharacterConfigModel|field:id|val:LimitRow
+2022-09-13 20:30:16,620 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.MonsterConfigModel|field:character_type|val:1.0
+2022-09-13 20:30:16,620 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.MonsterConfigModel|field:gender|val:2.0
+2022-09-13 20:30:16,621 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.MonsterConfigModel|field:model_id|val:101.0
+2022-09-13 20:30:16,621 [ERROR] [main] com.mobi.config.log.GameLog 解析表class com.mobi.config.configModel.MonsterConfigModel时 ArrArrInt数据错误
+2022-09-13 20:30:16,623 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.HeroConfigModel|field:gender|val:2.0
+2022-09-13 20:30:16,623 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.HeroConfigModel|field:model_id|val:11.0
+2022-09-13 20:30:16,625 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.MonsterGroupConfigModel|field:group_gid|val:1.0
+2022-09-13 20:30:16,627 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CardConfigModel|field:gender|val:2.0
+2022-09-13 20:30:16,628 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CardConfigModel|field:model_id|val:100.0
+2022-09-13 20:30:52,496 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CharacterConfigModel|field:character_type|val:IN:[1;2]
+2022-09-13 20:30:52,501 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CharacterConfigModel|field:gender|val:IN:[1;2]
+2022-09-13 20:30:52,502 [ERROR] [main] com.mobi.config.log.GameLog 解析表class com.mobi.config.configModel.CharacterConfigModel时 ArrArrInt数据错误
+2022-09-13 20:30:52,502 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CharacterConfigModel|field:id|val:LimitRow
+2022-09-13 20:30:52,507 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.MonsterConfigModel|field:character_type|val:1.0
+2022-09-13 20:30:52,508 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.MonsterConfigModel|field:gender|val:2.0
+2022-09-13 20:30:52,508 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.MonsterConfigModel|field:model_id|val:101.0
+2022-09-13 20:30:52,508 [ERROR] [main] com.mobi.config.log.GameLog 解析表class com.mobi.config.configModel.MonsterConfigModel时 ArrArrInt数据错误
+2022-09-13 20:30:52,511 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.HeroConfigModel|field:gender|val:2.0
+2022-09-13 20:30:52,512 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.HeroConfigModel|field:model_id|val:11.0
+2022-09-13 20:30:52,514 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.MonsterGroupConfigModel|field:group_gid|val:1.0
+2022-09-13 20:30:52,519 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CardConfigModel|field:gender|val:2.0
+2022-09-13 20:30:52,519 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CardConfigModel|field:model_id|val:100.0
+2022-09-13 20:32:28,234 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CharacterConfigModel|field:character_type|val:IN:[1;2]
+2022-09-13 20:32:28,236 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CharacterConfigModel|field:gender|val:IN:[1;2]
+2022-09-13 20:32:28,237 [ERROR] [main] com.mobi.config.log.GameLog 解析表class com.mobi.config.configModel.CharacterConfigModel时 ArrArrInt数据错误
+2022-09-13 20:32:28,237 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CharacterConfigModel|field:id|val:LimitRow
+2022-09-13 20:32:28,240 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.MonsterConfigModel|field:character_type|val:1.0
+2022-09-13 20:32:28,240 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.MonsterConfigModel|field:gender|val:2.0
+2022-09-13 20:32:28,241 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.MonsterConfigModel|field:model_id|val:101.0
+2022-09-13 20:32:28,241 [ERROR] [main] com.mobi.config.log.GameLog 解析表class com.mobi.config.configModel.MonsterConfigModel时 ArrArrInt数据错误
+2022-09-13 20:32:28,242 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.HeroConfigModel|field:gender|val:2.0
+2022-09-13 20:32:28,243 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.HeroConfigModel|field:model_id|val:11.0
+2022-09-13 20:32:28,244 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.MonsterGroupConfigModel|field:group_gid|val:1.0
+2022-09-13 20:32:28,246 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CardConfigModel|field:gender|val:2.0
+2022-09-13 20:32:28,247 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CardConfigModel|field:model_id|val:100.0
+2022-09-13 20:37:13,510 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CharacterConfigModel|field:character_type|val:IN:[1;2]
+2022-09-13 20:37:13,513 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CharacterConfigModel|field:gender|val:IN:[1;2]
+2022-09-13 20:37:13,513 [ERROR] [main] com.mobi.config.log.GameLog 解析表class com.mobi.config.configModel.CharacterConfigModel时 ArrArrInt数据错误
+2022-09-13 20:37:13,513 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CharacterConfigModel|field:id|val:LimitRow
+2022-09-13 20:37:13,517 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.MonsterConfigModel|field:character_type|val:1.0
+2022-09-13 20:37:13,518 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.MonsterConfigModel|field:gender|val:2.0
+2022-09-13 20:37:13,518 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.MonsterConfigModel|field:model_id|val:101.0
+2022-09-13 20:37:13,518 [ERROR] [main] com.mobi.config.log.GameLog 解析表class com.mobi.config.configModel.MonsterConfigModel时 ArrArrInt数据错误
+2022-09-13 20:37:13,520 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.HeroConfigModel|field:gender|val:2.0
+2022-09-13 20:37:13,520 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.HeroConfigModel|field:model_id|val:11.0
+2022-09-13 20:37:13,522 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.MonsterGroupConfigModel|field:group_gid|val:1.0
+2022-09-13 20:37:13,525 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CardConfigModel|field:gender|val:2.0
+2022-09-13 20:37:13,525 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CardConfigModel|field:model_id|val:100.0
+2022-09-13 20:40:26,568 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CharacterConfigModel|field:character_type|val:IN:[1;2]
+2022-09-13 20:40:26,571 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CharacterConfigModel|field:gender|val:IN:[1;2]
+2022-09-13 20:40:26,571 [ERROR] [main] com.mobi.config.log.GameLog 解析表class com.mobi.config.configModel.CharacterConfigModel时 ArrArrInt数据错误
+2022-09-13 20:40:26,571 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CharacterConfigModel|field:id|val:LimitRow
+2022-09-13 20:40:26,575 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.MonsterConfigModel|field:character_type|val:1.0
+2022-09-13 20:40:26,575 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.MonsterConfigModel|field:gender|val:2.0
+2022-09-13 20:40:26,575 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.MonsterConfigModel|field:model_id|val:101.0
+2022-09-13 20:40:26,575 [ERROR] [main] com.mobi.config.log.GameLog 解析表class com.mobi.config.configModel.MonsterConfigModel时 ArrArrInt数据错误
+2022-09-13 20:40:26,577 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.HeroConfigModel|field:gender|val:2.0
+2022-09-13 20:40:26,578 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.HeroConfigModel|field:model_id|val:11.0
+2022-09-13 20:40:26,581 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.MonsterGroupConfigModel|field:group_gid|val:1.0
+2022-09-13 20:40:26,584 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CardConfigModel|field:gender|val:2.0
+2022-09-13 20:40:26,584 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CardConfigModel|field:model_id|val:100.0
+2022-09-13 20:41:45,611 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CharacterConfigModel|field:character_type|val:IN:[1;2]
+2022-09-13 20:41:45,613 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CharacterConfigModel|field:gender|val:IN:[1;2]
+2022-09-13 20:41:45,613 [ERROR] [main] com.mobi.config.log.GameLog 解析表class com.mobi.config.configModel.CharacterConfigModel时 ArrArrInt数据错误
+2022-09-13 20:41:45,614 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CharacterConfigModel|field:id|val:LimitRow
+2022-09-13 20:41:45,618 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.MonsterConfigModel|field:character_type|val:1.0
+2022-09-13 20:41:45,618 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.MonsterConfigModel|field:gender|val:2.0
+2022-09-13 20:41:45,618 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.MonsterConfigModel|field:model_id|val:101.0
+2022-09-13 20:41:45,619 [ERROR] [main] com.mobi.config.log.GameLog 解析表class com.mobi.config.configModel.MonsterConfigModel时 ArrArrInt数据错误
+2022-09-13 20:41:45,620 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.HeroConfigModel|field:gender|val:2.0
+2022-09-13 20:41:45,621 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.HeroConfigModel|field:model_id|val:11.0
+2022-09-13 20:41:45,622 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.MonsterGroupConfigModel|field:group_gid|val:1.0
+2022-09-13 20:41:45,624 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CardConfigModel|field:gender|val:2.0
+2022-09-13 20:41:45,625 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CardConfigModel|field:model_id|val:100.0
+2022-09-13 20:42:10,842 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CharacterConfigModel|field:character_type|val:IN:[1;2]
+2022-09-13 20:42:10,844 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CharacterConfigModel|field:gender|val:IN:[1;2]
+2022-09-13 20:42:10,844 [ERROR] [main] com.mobi.config.log.GameLog 解析表class com.mobi.config.configModel.CharacterConfigModel时 ArrArrInt数据错误
+2022-09-13 20:42:10,844 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CharacterConfigModel|field:id|val:LimitRow
+2022-09-13 20:42:10,849 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.MonsterConfigModel|field:character_type|val:1.0
+2022-09-13 20:42:10,850 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.MonsterConfigModel|field:gender|val:2.0
+2022-09-13 20:42:10,850 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.MonsterConfigModel|field:model_id|val:101.0
+2022-09-13 20:42:10,850 [ERROR] [main] com.mobi.config.log.GameLog 解析表class com.mobi.config.configModel.MonsterConfigModel时 ArrArrInt数据错误
+2022-09-13 20:42:10,852 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.HeroConfigModel|field:gender|val:2.0
+2022-09-13 20:42:10,852 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.HeroConfigModel|field:model_id|val:11.0
+2022-09-13 20:42:10,855 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.MonsterGroupConfigModel|field:group_gid|val:1.0
+2022-09-13 20:42:10,857 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CardConfigModel|field:gender|val:2.0
+2022-09-13 20:42:10,857 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CardConfigModel|field:model_id|val:100.0
+2022-09-13 20:44:26,983 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CharacterConfigModel|field:character_type|val:IN:[1;2]
+2022-09-13 20:44:26,986 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CharacterConfigModel|field:gender|val:IN:[1;2]
+2022-09-13 20:44:26,986 [ERROR] [main] com.mobi.config.log.GameLog 解析表class com.mobi.config.configModel.CharacterConfigModel时 ArrArrInt数据错误
+2022-09-13 20:44:26,987 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CharacterConfigModel|field:id|val:LimitRow
+2022-09-13 20:44:26,990 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.MonsterConfigModel|field:character_type|val:1.0
+2022-09-13 20:44:26,991 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.MonsterConfigModel|field:gender|val:2.0
+2022-09-13 20:44:26,991 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.MonsterConfigModel|field:model_id|val:101.0
+2022-09-13 20:44:26,991 [ERROR] [main] com.mobi.config.log.GameLog 解析表class com.mobi.config.configModel.MonsterConfigModel时 ArrArrInt数据错误
+2022-09-13 20:44:26,993 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.HeroConfigModel|field:gender|val:2.0
+2022-09-13 20:44:26,993 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.HeroConfigModel|field:model_id|val:11.0
+2022-09-13 20:44:26,994 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.MonsterGroupConfigModel|field:group_gid|val:1.0
+2022-09-13 20:44:26,997 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CardConfigModel|field:gender|val:2.0
+2022-09-13 20:44:26,998 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CardConfigModel|field:model_id|val:100.0
+2022-09-13 20:46:06,127 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CharacterConfigModel|field:character_type|val:IN:[1;2]
+2022-09-13 20:46:06,130 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CharacterConfigModel|field:gender|val:IN:[1;2]
+2022-09-13 20:46:06,130 [ERROR] [main] com.mobi.config.log.GameLog 解析表class com.mobi.config.configModel.CharacterConfigModel时 ArrArrInt数据错误
+2022-09-13 20:46:06,130 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CharacterConfigModel|field:id|val:LimitRow
+2022-09-13 20:46:06,134 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.MonsterConfigModel|field:character_type|val:1.0
+2022-09-13 20:46:06,134 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.MonsterConfigModel|field:gender|val:2.0
+2022-09-13 20:46:06,134 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.MonsterConfigModel|field:model_id|val:101.0
+2022-09-13 20:46:06,134 [ERROR] [main] com.mobi.config.log.GameLog 解析表class com.mobi.config.configModel.MonsterConfigModel时 ArrArrInt数据错误
+2022-09-13 20:46:06,136 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.HeroConfigModel|field:gender|val:2.0
+2022-09-13 20:46:06,136 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.HeroConfigModel|field:model_id|val:11.0
+2022-09-13 20:46:06,138 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.MonsterGroupConfigModel|field:group_gid|val:1.0
+2022-09-13 20:46:06,140 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CardConfigModel|field:gender|val:2.0
+2022-09-13 20:46:06,141 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CardConfigModel|field:model_id|val:100.0
+2022-09-13 20:46:28,264 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CharacterConfigModel|field:character_type|val:IN:[1;2]
+2022-09-13 20:46:28,266 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CharacterConfigModel|field:gender|val:IN:[1;2]
+2022-09-13 20:46:28,266 [ERROR] [main] com.mobi.config.log.GameLog 解析表class com.mobi.config.configModel.CharacterConfigModel时 ArrArrInt数据错误
+2022-09-13 20:46:28,266 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CharacterConfigModel|field:id|val:LimitRow
+2022-09-13 20:46:28,270 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.MonsterConfigModel|field:character_type|val:1.0
+2022-09-13 20:46:28,270 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.MonsterConfigModel|field:gender|val:2.0
+2022-09-13 20:46:28,271 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.MonsterConfigModel|field:model_id|val:101.0
+2022-09-13 20:46:28,271 [ERROR] [main] com.mobi.config.log.GameLog 解析表class com.mobi.config.configModel.MonsterConfigModel时 ArrArrInt数据错误
+2022-09-13 20:46:28,273 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.HeroConfigModel|field:gender|val:2.0
+2022-09-13 20:46:28,273 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.HeroConfigModel|field:model_id|val:11.0
+2022-09-13 20:46:28,276 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.MonsterGroupConfigModel|field:group_gid|val:1.0
+2022-09-13 20:46:28,278 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CardConfigModel|field:gender|val:2.0
+2022-09-13 20:46:28,279 [ERROR] [main] com.mobi.config.log.GameLog model:class com.mobi.config.configModel.CardConfigModel|field:model_id|val:100.0

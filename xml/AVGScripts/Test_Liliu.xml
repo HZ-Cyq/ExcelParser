@@ -1,0 +1,109 @@
+<root>
+<Test_Liliu id="0" originalRow="0" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story" param="" param2="" param3=""/>
+<Test_Liliu id="1" originalRow="0" groupSign="" debugClose="" action="镜头切换" data="camchar0" param="" param2="" param3=""/>
+<Test_Liliu id="2" originalRow="0" groupSign="" debugClose="" action="设置角色" data="liliu" param="" param2="" param3=""/>
+<Test_Liliu id="3" originalRow="0" groupSign="" debugClose="" action="角色台词" data="liliu" param="{角色动作,,1000}{角色表情,,10010;20010;}这里应该是待机动作..." param2="" param3=""/>
+<Test_Liliu id="4" originalRow="0" groupSign="" debugClose="" action="角色转向" data="liliu" param="60" param2="0.5" param3=""/>
+<Test_Liliu id="5" originalRow="0" groupSign="" debugClose="" action="角色台词" data="liliu" param="{角色动作,,1001}{角色表情,,10070;20070;}这里应该是开心动作…" param2="" param3="type=1"/>
+<Test_Liliu id="6" originalRow="0" debugClose="" action="角色台词" data="liliu" param="{角色动作,,1002}这里应该是开心回待机动作..."/>
+<Test_Liliu id="7" originalRow="0" debugClose="" action="角色台词" data="liliu" param="{角色动作,,1003}这里应该是严肃动作..."/>
+<Test_Liliu id="8" originalRow="0" debugClose="" action="角色台词" data="liliu" param="{角色动作,,1004}这里应该是严肃回待机动作..."/>
+<Test_Liliu id="9" originalRow="0" debugClose="" action="角色台词" data="liliu" param="这里应该是严肃回待机动作…{角色动作,,1000}&lt;color=red&gt;{角色表情,,10010;20010;}这里应该是待机动作…&lt;/color&gt;"/>
+<Test_Liliu id="10" originalRow="1" groupSign="" debugClose="" action="角色台词" data="liliu" param="{macro=macro_莉琉测试3}" param2="" param3=""/>
+<Test_Liliu id="11" originalRow="2" groupSign="" debugClose="" action="角色表情" data="liliu" param="10040;20040;30000" param2="" param3=""/>
+<Test_Liliu id="12" originalRow="2" groupSign="" debugClose="" action="角色动作" data="liliu" param="1003" param2="" param3=""/>
+<Test_Liliu id="13" originalRow="2" groupSign="" debugClose="" action="开始说话" data="liliu" param="102101" param2="" param3=""/>
+<Test_Liliu id="14" originalRow="2" groupSign="" debugClose="" action="角色台词" data="liliu" param="{s=0.2}你{2}说这话…{1}{s=0.05}是什么意思{shake=1}
+{s=0.02}&lt;color=red&gt;&lt;size=60&gt;！！！&lt;/size&gt;&lt;/color&gt;" param2="" param3=""/>
+<Test_Liliu id="15" originalRow="2" groupSign="" debugClose="" action="角色台词" data="liliu" param="哼！{角色动作,,1004}{1}" param2="" param3=""/>
+<Test_Liliu id="16" originalRow="2" groupSign="" debugClose="" action="角色台词" data="liliu" param="那么大一个&lt;color=red&gt;矛盾&lt;/color&gt;看不到嘛？！{角色动作,,1004}" param2="" param3=""/>
+<Test_Liliu id="17" originalRow="2" groupSign="" debugClose="" action="角色台词" data="liliu" param="再回去好好修炼几年吧！！！{角色动作,,1000}{角色表情,,10030;20030;30000}" param2="" param3=""/>
+<Test_Liliu id="18" originalRow="2" groupSign="" debugClose="" action="角色台词" data="liliu" param="{角色动作,,1000}&lt;color=red&gt;{角色表情,,10010;20010;}这里应该是待机动作...&lt;/color&gt;啊{1{角色动作,,1000}&lt;color=red&gt;{角色表情,,10010;20010;}这里应该是待机动作...&lt;/color&gt;" param2="" param3=""/>
+<Test_Liliu id="19" originalRow="3" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="20" originalRow="4" action="" data="" param=""/>
+<Test_Liliu id="21" originalRow="5" action="" data="" param=""/>
+<Test_Liliu id="22" originalRow="6" action="" data="" param=""/>
+<Test_Liliu id="23" originalRow="7" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="24" originalRow="8" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="25" originalRow="9" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="26" originalRow="10" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="27" originalRow="11" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="28" originalRow="12" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="29" originalRow="13" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="30" originalRow="14" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="31" originalRow="15" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="32" originalRow="16" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="33" originalRow="17" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="34" originalRow="18" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="35" originalRow="19" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="36" originalRow="20" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="37" originalRow="21" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="38" originalRow="22" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="39" originalRow="23" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="40" originalRow="24" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="41" originalRow="25" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="42" originalRow="26" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="43" originalRow="27" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="44" originalRow="28" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="45" originalRow="29" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="46" originalRow="30" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="47" originalRow="31" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="48" originalRow="32" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="49" originalRow="33" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="50" originalRow="34" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="51" originalRow="35" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="52" originalRow="36" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="53" originalRow="37" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="54" originalRow="38" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="55" originalRow="39" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="56" originalRow="40" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="57" originalRow="41" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="58" originalRow="42" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="59" originalRow="43" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="60" originalRow="44" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="61" originalRow="45" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="62" originalRow="46" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="63" originalRow="47" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="64" originalRow="48" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="65" originalRow="49" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="66" originalRow="50" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="67" originalRow="51" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="68" originalRow="52" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="69" originalRow="53" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="70" originalRow="54" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="71" originalRow="55" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="72" originalRow="56" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="73" originalRow="57" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="74" originalRow="58" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="75" originalRow="59" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="76" originalRow="60" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="77" originalRow="61" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="78" originalRow="62" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="79" originalRow="63" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="80" originalRow="64" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="81" originalRow="65" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="82" originalRow="66" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="83" originalRow="67" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="84" originalRow="68" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="85" originalRow="69" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="86" originalRow="70" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="87" originalRow="71" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="88" originalRow="72" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="89" originalRow="73" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="90" originalRow="74" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="91" originalRow="75" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="92" originalRow="76" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="93" originalRow="77" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="94" originalRow="78" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="95" originalRow="79" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="96" originalRow="80" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="97" originalRow="81" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Liliu id="98" originalRow="82" action=""/>
+<Test_Liliu id="99" originalRow="83" action=""/>
+<Test_Liliu id="100" originalRow="84" action=""/>
+<Test_Liliu id="101" originalRow="85" action=""/>
+<Test_Liliu id="102" originalRow="86" action=""/>
+<Test_Liliu id="103" originalRow="87" action=""/>
+<Test_Liliu id="104" originalRow="88" action=""/>
+<Test_Liliu id="105" originalRow="89" action=""/>
+</root>
