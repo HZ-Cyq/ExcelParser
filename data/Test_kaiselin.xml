@@ -1,0 +1,168 @@
+<root>
+<Test_kaiselin id="0" originalRow="0" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story" param="" param2=""/>
+<Test_kaiselin id="1" originalRow="1" groupSign="" debugClose="" action="镜头切换" data="camchar0" param="" param2=""/>
+<Test_kaiselin id="2" originalRow="2" groupSign="" debugClose="" action="设置角色" data="kaiselin" param="" param2=""/>
+<Test_kaiselin id="3" originalRow="3" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="左微上微" param2="" param3="1"/>
+<Test_kaiselin id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是左微上微转头" param2=""/>
+<Test_kaiselin id="5" originalRow="5" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="右微上微" param2="" param3="1"/>
+<Test_kaiselin id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是右微上微转头" param2=""/>
+<Test_kaiselin id="7" originalRow="7" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="左微下微" param2="" param3="1"/>
+<Test_kaiselin id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是左微下微转头" param2=""/>
+<Test_kaiselin id="9" originalRow="9" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="右微下微" param2="" param3="1"/>
+<Test_kaiselin id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是右微下微转头" param2=""/>
+<Test_kaiselin id="11" originalRow="11" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="左中上微" param2="" param3="1"/>
+<Test_kaiselin id="12" originalRow="12" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是左中上微转头" param2=""/>
+<Test_kaiselin id="13" originalRow="13" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="右中上微" param2="" param3="1"/>
+<Test_kaiselin id="14" originalRow="14" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是右中上微转头" param2=""/>
+<Test_kaiselin id="15" originalRow="15" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="左中下微" param2="" param3="1"/>
+<Test_kaiselin id="16" originalRow="16" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是左中下微转头" param2=""/>
+<Test_kaiselin id="17" originalRow="17" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="右中下微" param2="" param3="1"/>
+<Test_kaiselin id="18" originalRow="18" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是右中下微转头" param2=""/>
+<Test_kaiselin id="19" originalRow="19" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="左大上微" param2="" param3="1"/>
+<Test_kaiselin id="20" originalRow="20" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是左大上微转头" param2=""/>
+<Test_kaiselin id="21" originalRow="21" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="右大上微" param2="" param3="1"/>
+<Test_kaiselin id="22" originalRow="22" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是右大上微转头" param2=""/>
+<Test_kaiselin id="23" originalRow="23" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="左大下微" param2="" param3="1"/>
+<Test_kaiselin id="24" originalRow="24" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是左大下微转头" param2=""/>
+<Test_kaiselin id="25" originalRow="25" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="右大下微" param2="" param3="1"/>
+<Test_kaiselin id="26" originalRow="26" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是右大下微转头" param2=""/>
+<Test_kaiselin id="27" originalRow="27" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="左极上微" param2="" param3="1"/>
+<Test_kaiselin id="28" originalRow="28" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是左极上微转头" param2=""/>
+<Test_kaiselin id="29" originalRow="29" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="右极上微" param2="" param3="1"/>
+<Test_kaiselin id="30" originalRow="30" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是右极上微转头" param2=""/>
+<Test_kaiselin id="31" originalRow="31" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="左极下微" param2="" param3="1"/>
+<Test_kaiselin id="32" originalRow="32" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是左极下微转头" param2=""/>
+<Test_kaiselin id="33" originalRow="33" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="右极下微" param2="" param3="1"/>
+<Test_kaiselin id="34" originalRow="34" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是右极下微转头" param2=""/>
+<Test_kaiselin id="35" originalRow="35" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="左微上中" param2="" param3="1"/>
+<Test_kaiselin id="36" originalRow="36" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是左微上中转头" param2=""/>
+<Test_kaiselin id="37" originalRow="37" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="右微上中" param2="" param3="1"/>
+<Test_kaiselin id="38" originalRow="38" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是右微上中转头" param2=""/>
+<Test_kaiselin id="39" originalRow="39" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="左微下中" param2="" param3="1"/>
+<Test_kaiselin id="40" originalRow="40" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是左微下中转头" param2=""/>
+<Test_kaiselin id="41" originalRow="41" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="右微下中" param2="" param3="1"/>
+<Test_kaiselin id="42" originalRow="42" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是右微下中转头" param2=""/>
+<Test_kaiselin id="43" originalRow="43" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="左中上中" param2="" param3="1"/>
+<Test_kaiselin id="44" originalRow="44" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是左中上中转头" param2=""/>
+<Test_kaiselin id="45" originalRow="45" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="右中上中" param2="" param3="1"/>
+<Test_kaiselin id="46" originalRow="46" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是右中上中转头" param2=""/>
+<Test_kaiselin id="47" originalRow="47" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="左中下中" param2="" param3="1"/>
+<Test_kaiselin id="48" originalRow="48" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是左中下中转头" param2=""/>
+<Test_kaiselin id="49" originalRow="49" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="右中下中" param2="" param3="1"/>
+<Test_kaiselin id="50" originalRow="50" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是右中下中转头" param2=""/>
+<Test_kaiselin id="51" originalRow="51" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="左大上中" param2="" param3="1"/>
+<Test_kaiselin id="52" originalRow="52" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是左大上中转头" param2=""/>
+<Test_kaiselin id="53" originalRow="53" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="右大上中" param2="" param3="1"/>
+<Test_kaiselin id="54" originalRow="54" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是右大上中转头" param2=""/>
+<Test_kaiselin id="55" originalRow="55" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="左大下中" param2="" param3="1"/>
+<Test_kaiselin id="56" originalRow="56" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是左大下中转头" param2=""/>
+<Test_kaiselin id="57" originalRow="57" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="右大下中" param2="" param3="1"/>
+<Test_kaiselin id="58" originalRow="58" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是右大下中转头" param2=""/>
+<Test_kaiselin id="59" originalRow="59" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="左极上中" param2="" param3="1"/>
+<Test_kaiselin id="60" originalRow="60" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是左极上中转头" param2=""/>
+<Test_kaiselin id="61" originalRow="61" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="右极上中" param2="" param3="1"/>
+<Test_kaiselin id="62" originalRow="62" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是右极上中转头" param2=""/>
+<Test_kaiselin id="63" originalRow="63" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="左极下中" param2="" param3="1"/>
+<Test_kaiselin id="64" originalRow="64" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是左极下中转头" param2=""/>
+<Test_kaiselin id="65" originalRow="65" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="右极下中" param2="" param3="1"/>
+<Test_kaiselin id="66" originalRow="66" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是右极下中转头" param2=""/>
+<Test_kaiselin id="67" originalRow="67" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="左极上中" param2="" param3="1"/>
+<Test_kaiselin id="68" originalRow="68" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是左极上中转头" param2=""/>
+<Test_kaiselin id="69" originalRow="69" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="右极上中" param2="" param3="1"/>
+<Test_kaiselin id="70" originalRow="70" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是右极上中转头" param2=""/>
+<Test_kaiselin id="71" originalRow="71" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="左极下中" param2="" param3="1"/>
+<Test_kaiselin id="72" originalRow="72" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是左极下中转头" param2=""/>
+<Test_kaiselin id="73" originalRow="73" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="右极下中" param2="" param3="1"/>
+<Test_kaiselin id="74" originalRow="74" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是右极下中转头" param2=""/>
+<Test_kaiselin id="75" originalRow="75" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="左微上大" param2="" param3="1"/>
+<Test_kaiselin id="76" originalRow="76" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是左微上大转头" param2=""/>
+<Test_kaiselin id="77" originalRow="77" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="右微上大" param2="" param3="1"/>
+<Test_kaiselin id="78" originalRow="78" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是右微上大转头" param2=""/>
+<Test_kaiselin id="79" originalRow="79" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="左微下大" param2="" param3="1"/>
+<Test_kaiselin id="80" originalRow="80" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是左微下大转头" param2=""/>
+<Test_kaiselin id="81" originalRow="81" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="右微下大" param2="" param3="1"/>
+<Test_kaiselin id="82" originalRow="82" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是右微下大转头" param2=""/>
+<Test_kaiselin id="83" originalRow="83" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="左中上大" param2="" param3="1"/>
+<Test_kaiselin id="84" originalRow="84" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是左中下大转头" param2=""/>
+<Test_kaiselin id="85" originalRow="85" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="右中上大" param2="" param3="1"/>
+<Test_kaiselin id="86" originalRow="86" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是右中下大转头" param2=""/>
+<Test_kaiselin id="87" originalRow="87" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="左中下大" param2="" param3="1"/>
+<Test_kaiselin id="88" originalRow="88" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是左中下大转头" param2=""/>
+<Test_kaiselin id="89" originalRow="89" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="右中下大" param2="" param3="1"/>
+<Test_kaiselin id="90" originalRow="90" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是右中下大转头" param2=""/>
+<Test_kaiselin id="91" originalRow="91" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="左大上大" param2="" param3="1"/>
+<Test_kaiselin id="92" originalRow="92" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是左大上大转头" param2=""/>
+<Test_kaiselin id="93" originalRow="93" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="右大上大" param2="" param3="1"/>
+<Test_kaiselin id="94" originalRow="94" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是右大上大转头" param2=""/>
+<Test_kaiselin id="95" originalRow="95" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="左大下大" param2="" param3="1"/>
+<Test_kaiselin id="96" originalRow="96" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是左大下大转头" param2=""/>
+<Test_kaiselin id="97" originalRow="97" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="右大下大" param2="" param3="1"/>
+<Test_kaiselin id="98" originalRow="98" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是右大下大转头" param2=""/>
+<Test_kaiselin id="99" originalRow="99" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="左极上大" param2="" param3="1"/>
+<Test_kaiselin id="100" originalRow="100" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是左极上大转头" param2=""/>
+<Test_kaiselin id="101" originalRow="101" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="右极上大" param2="" param3="1"/>
+<Test_kaiselin id="102" originalRow="102" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是右极上大转头" param2=""/>
+<Test_kaiselin id="103" originalRow="103" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="左极下大" param2="" param3="1"/>
+<Test_kaiselin id="104" originalRow="104" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是左极下大转头" param2=""/>
+<Test_kaiselin id="105" originalRow="105" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="右极下大" param2="" param3="1"/>
+<Test_kaiselin id="106" originalRow="106" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是右极下大转头" param2=""/>
+<Test_kaiselin id="107" originalRow="107" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="左微上极" param2="" param3="1"/>
+<Test_kaiselin id="108" originalRow="108" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是左微上极转头" param2=""/>
+<Test_kaiselin id="109" originalRow="109" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="右微上极" param2="" param3="1"/>
+<Test_kaiselin id="110" originalRow="110" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是右微上极转头" param2=""/>
+<Test_kaiselin id="111" originalRow="111" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="左微下极" param2="" param3="1"/>
+<Test_kaiselin id="112" originalRow="112" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是左微下极转头" param2=""/>
+<Test_kaiselin id="113" originalRow="113" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="右微下极" param2="" param3="1"/>
+<Test_kaiselin id="114" originalRow="114" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是右微下极转头" param2=""/>
+<Test_kaiselin id="115" originalRow="115" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="左中上极" param2="" param3="1"/>
+<Test_kaiselin id="116" originalRow="116" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是左中上极转头" param2=""/>
+<Test_kaiselin id="117" originalRow="117" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="右中上极" param2="" param3="1"/>
+<Test_kaiselin id="118" originalRow="118" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是右中上极转头" param2=""/>
+<Test_kaiselin id="119" originalRow="119" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="左中下极" param2="" param3="1"/>
+<Test_kaiselin id="120" originalRow="120" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是左中下极转头" param2=""/>
+<Test_kaiselin id="121" originalRow="121" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="右中下极" param2="" param3="1"/>
+<Test_kaiselin id="122" originalRow="122" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是右中下极转头" param2=""/>
+<Test_kaiselin id="123" originalRow="123" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="左大上极" param2="" param3="1"/>
+<Test_kaiselin id="124" originalRow="124" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是左大上极转头" param2=""/>
+<Test_kaiselin id="125" originalRow="125" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="右大上极" param2="" param3="1"/>
+<Test_kaiselin id="126" originalRow="126" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是右大上极转头" param2=""/>
+<Test_kaiselin id="127" originalRow="127" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="左大下极" param2="" param3="1"/>
+<Test_kaiselin id="128" originalRow="128" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是左大下极转头" param2=""/>
+<Test_kaiselin id="129" originalRow="129" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="右大下极" param2="" param3="1"/>
+<Test_kaiselin id="130" originalRow="130" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是右大下极转头" param2=""/>
+<Test_kaiselin id="131" originalRow="131" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="左极上极" param2="" param3="1"/>
+<Test_kaiselin id="132" originalRow="132" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是左极上极转头" param2=""/>
+<Test_kaiselin id="133" originalRow="133" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="右极上极" param2="" param3="1"/>
+<Test_kaiselin id="134" originalRow="134" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是右极上极转头" param2=""/>
+<Test_kaiselin id="135" originalRow="135" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="左极下极" param2="" param3="1"/>
+<Test_kaiselin id="136" originalRow="136" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是左极下极转头" param2=""/>
+<Test_kaiselin id="137" originalRow="137" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="右极下极" param2="" param3="1"/>
+<Test_kaiselin id="138" originalRow="138" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是右极下极转头" param2=""/>
+<Test_kaiselin id="139" originalRow="139" groupSign="" debugClose="" action="角色转头" data="kaiselin" param="无" param2="" param3="1"/>
+<Test_kaiselin id="140" originalRow="140" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是恢复转头" param2=""/>
+<Test_kaiselin id="141" originalRow="141" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1000}这里应该是待机动作..." param2=""/>
+<Test_kaiselin id="142" originalRow="142" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1001}这里应该是开心动作..." param2="" param3="type=1"/>
+<Test_kaiselin id="143" originalRow="143" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1002}这里应该是开心回待机动作..." param2="" param3=""/>
+<Test_kaiselin id="144" originalRow="144" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1003}这里应该是严肃动作..." param2="" param3=""/>
+<Test_kaiselin id="145" originalRow="145" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1004}这里应该是严肃回待机动作..." param2="" param3=""/>
+<Test_kaiselin id="146" originalRow="146" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1005}这里应该是忧伤动作..." param2="" param3=""/>
+<Test_kaiselin id="147" originalRow="147" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1006}这里应该是忧伤回待机动作..." param2="" param3=""/>
+<Test_kaiselin id="148" originalRow="148" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1009}这里应该是紧张动作..." param2="" param3=""/>
+<Test_kaiselin id="149" originalRow="149" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1010}这里应该是紧张回待机动作..." param2="" param3=""/>
+<Test_kaiselin id="150" originalRow="150" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1011}这里应该是思考动作..." param2="" param3=""/>
+<Test_kaiselin id="151" originalRow="151" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1012}这里应该是思考回待机动作..." param2="" param3=""/>
+<Test_kaiselin id="152" originalRow="152" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1013}这里应该是愤怒动作..." param2="" param3=""/>
+<Test_kaiselin id="153" originalRow="153" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1014}这里应该是愤怒回待机动作..." param2="" param3=""/>
+<Test_kaiselin id="154" originalRow="154" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{talk,,102110}{角色动作,,1015}{角色表情,,10110;20110;}这里应该是得意动作..." param2="" param3=""/>
+<Test_kaiselin id="155" originalRow="155" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1016}这里应该是得意回待机动作..." param2="" param3=""/>
+<Test_kaiselin id="156" originalRow="156" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1017}这里应该是魅惑动作..." param2="" param3=""/>
+<Test_kaiselin id="157" originalRow="157" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1018}这里应该是魅惑回待机动作..." param2="" param3=""/>
+<Test_kaiselin id="158" originalRow="158" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1019}这里应该是试药动作...（道具有点奇怪）" param2="" param3=""/>
+<Test_kaiselin id="159" originalRow="159" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1020}这里应该是试药回待机动作..." param2="" param3=""/>
+<Test_kaiselin id="160" originalRow="160" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1021}这里应该是注射器动作...（道具有点奇怪）" param2="" param3=""/>
+<Test_kaiselin id="161" originalRow="161" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1022}这里应该是注射器回待机动作..." param2="" param3=""/>
+<Test_kaiselin id="162" originalRow="162" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1023}{角色表情,,10120;20120;}{1.6}{角色表情,,10121;20120;}这里应该是媚眼动作…" param2="" param3=""/>
+<Test_kaiselin id="163" originalRow="163" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1024}{角色表情,,10000;20000;30000}这里应该是媚眼回待机动作..." param2="" param3=""/>
+<Test_kaiselin id="164" originalRow="164" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1025}这里应该是转笔动作..." param2="" param3=""/>
+<Test_kaiselin id="165" originalRow="165" groupSign="" debugClose="" action="角色台词" data="kaiselin" param="{角色动作,,1026}这里应该是转笔回待机动作..." param2="" param3=""/>
+</root>

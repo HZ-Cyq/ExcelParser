@@ -1,0 +1,95 @@
+<root>
+<Test_Niefei id="0" originalRow="0" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story" param="" param2=""/>
+<Test_Niefei id="1" originalRow="1" groupSign="" debugClose="" action="镜头切换" data="camchar2" param="" param2=""/>
+<Test_Niefei id="2" originalRow="2" groupSign="" debugClose="" action="设置角色" data="niefei" param="pos=0" param2="" param3="TRUE;TRUE;FALSE"/>
+<Test_Niefei id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="niefei" param="{角色动作,,1000}这里应该是待机动作..." param2=""/>
+<Test_Niefei id="4" originalRow="4" groupSign="" debugClose="" action="角色台词" data="niefei" param="{角色动作,,1001}这里应该是开心动作..." param2="" param3=""/>
+<Test_Niefei id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="niefei" param="{角色动作,,1002}这里应该是开心回待机动作..." param2="" param3=""/>
+<Test_Niefei id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="niefei" param="{角色动作,,1003}这里应该是严肃动作..." param2="" param3=""/>
+<Test_Niefei id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="niefei" param="{角色动作,,1004}这里应该是严肃回待机动作..." param2="" param3=""/>
+<Test_Niefei id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="niefei" param="{角色动作,,1005}这里应该是忧伤动作..." param2="" param3=""/>
+<Test_Niefei id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="niefei" param="{角色动作,,1006}这里应该是忧伤回待机动作..." param2="" param3=""/>
+<Test_Niefei id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="niefei" param="{角色动作,,1007}这里应该是惊讶动作..." param2="" param3=""/>
+<Test_Niefei id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="niefei" param="{角色动作,,1008}这里应该是惊讶回待机动作..." param2="" param3=""/>
+<Test_Niefei id="12" originalRow="12" groupSign="" debugClose="" action="角色台词" data="niefei" param="{角色动作,,1009}这里应该是紧张动作..." param2="" param3=""/>
+<Test_Niefei id="13" originalRow="13" groupSign="" debugClose="" action="角色台词" data="niefei" param="{角色动作,,1010}这里应该是紧张回待机动作..." param2="" param3=""/>
+<Test_Niefei id="14" originalRow="14" groupSign="" debugClose="" action="角色台词" data="niefei" param="{角色动作,,1011}这里应该是思考动作..." param2="" param3=""/>
+<Test_Niefei id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="niefei" param="{角色动作,,1012}这里应该是思考回待机动作..." param2="" param3=""/>
+<Test_Niefei id="16" originalRow="16" groupSign="" debugClose="" action="角色台词" data="niefei" param="{角色动作,,1013}这里应该是愤怒动作..." param2="" param3=""/>
+<Test_Niefei id="17" originalRow="17" groupSign="" debugClose="" action="角色台词" data="niefei" param="{角色动作,,1014}这里应该是愤怒回待机动作..." param2="" param3=""/>
+<Test_Niefei id="18" originalRow="18" groupSign="" debugClose="" action="角色台词" data="niefei" param="{角色动作,,1015}这里应该是得意动作..." param2="" param3=""/>
+<Test_Niefei id="19" originalRow="19" groupSign="" debugClose="" action="角色台词" data="niefei" param="{角色动作,,1016}这里应该是得意回待机动作..." param2="" param3=""/>
+<Test_Niefei id="20" originalRow="20" groupSign="" debugClose="" action="角色台词" data="niefei" param="{角色动作,,1017}这里应该是馋动作..." param2="" param3=""/>
+<Test_Niefei id="21" originalRow="21" groupSign="" debugClose="" action="角色台词" data="niefei" param="{角色动作,,1018}这里应该是馋回待机动作..." param2="" param3=""/>
+<Test_Niefei id="22" originalRow="22" groupSign="" debugClose="" action="角色台词" data="niefei" param="{角色动作,,1019}这里应该是俯卧撑动作..." param2="" param3=""/>
+<Test_Niefei id="23" originalRow="23" groupSign="" debugClose="" action="角色台词" data="niefei" param="{角色动作,,1020}这里应该是军体拳动作..." param2="" param3=""/>
+<Test_Niefei id="24" originalRow="24" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Niefei id="25" originalRow="25" groupSign="" debugClose="" action="角色台词" data="niefei" param="{角色表情,,;;30000;}{角色表情,,;;30001;}{角色表情,,;;30002;}{角色表情,,;;30003;}{角色表情,,;;30004;}这里应该是待机" param2="" param3=""/>
+<Test_Niefei id="26" originalRow="26" groupSign="" debugClose="" action="角色台词" data="niefei" param="{角色表情,,;;30001;}这里应该是上" param2="" param3=""/>
+<Test_Niefei id="27" originalRow="27" groupSign="" debugClose="" action="角色台词" data="niefei" param="{角色表情,,;;30002;}这里应该是下" param2="" param3=""/>
+<Test_Niefei id="28" originalRow="28" action="角色台词" data="niefei" param="{角色表情,,;;30003;}这里应该是左"/>
+<Test_Niefei id="29" originalRow="29" action="角色台词" data="niefei" param="{角色表情,,;;30004;}这里应该是右"/>
+<Test_Niefei id="30" originalRow="30" action="语法-数值" data="rqs_调查陈列室+=1" param=""/>
+<Test_Niefei id="31" originalRow="31" action="角色台词" data="niefei" param="{角色表情,,;;30005;}这里应该是晃动"/>
+<Test_Niefei id="32" originalRow="32" groupSign="" debugClose="" action="角色台词" data="niefei" param="{角色表情,,10000;20000;30000;}这里应该是待机表情..." param2="" param3=""/>
+<Test_Niefei id="33" originalRow="33" groupSign="" debugClose="" action="角色台词" data="niefei" param="{角色表情,,10010;20010;30001;}这里应该是平静表情..." param2="" param3=""/>
+<Test_Niefei id="34" originalRow="34" groupSign="" debugClose="" action="角色台词" data="niefei" param="{角色表情,,10020;20020;30002;}这里应该是开心表情..." param2="" param3=""/>
+<Test_Niefei id="35" originalRow="35" action="角色台词" data="niefei" param="{角色表情,,10030;20030;30003;}这里应该是严肃表情..."/>
+<Test_Niefei id="36" originalRow="36" action="角色台词" data="niefei" param="{角色表情,,10040;20040;30004;}这里应该是忧伤表情..."/>
+<Test_Niefei id="37" originalRow="37" action="角色台词" data="niefei" param="{角色表情,,10050;20050;30005;}这里应该是惊讶表情..."/>
+<Test_Niefei id="38" originalRow="38" action="角色台词" data="niefei" param="{角色表情,,10060;20060;}这里应该是紧张表情..."/>
+<Test_Niefei id="39" originalRow="39" debugClose="1" action="角色台词" data="niefei" param="{角色表情,,10070;20070;}这里应该是思考表情..."/>
+<Test_Niefei id="40" originalRow="40" action="角色台词" data="niefei" param="{角色表情,,10080;20080;}这里应该是愤怒表情..."/>
+<Test_Niefei id="41" originalRow="41" action="角色台词" data="niefei" param="{角色表情,,10090;20090;}这里应该是得意表情..."/>
+<Test_Niefei id="42" originalRow="42" action="角色台词" data="niefei" param="{角色表情,,10100;20100;}这里应该是尴尬表情..."/>
+<Test_Niefei id="43" originalRow="43" debugClose="1" action="角色台词" data="niefei" param="{角色表情,,10110;20110;}这里应该是“吹”表情..."/>
+<Test_Niefei id="44" originalRow="44"/>
+<Test_Niefei id="45" originalRow="45" action="角色台词" data="niefei" param="{角色动作,,1000}{角色表情,,10000;20000;}这里应该是待机..."/>
+<Test_Niefei id="46" originalRow="46" action="角色台词" data="niefei" param="{角色动作,,1001}{角色表情,,10020;20020;}这里应该是开心..."/>
+<Test_Niefei id="47" originalRow="47" action="角色台词" data="niefei" param="{角色动作,,1002}{角色表情,,10010;20010;}这里应该是开心回待机..."/>
+<Test_Niefei id="48" originalRow="48" action="角色台词" data="niefei" param="{角色动作,,1003}{角色表情,,10010;20010;}这里应该是严肃..."/>
+<Test_Niefei id="49" originalRow="49" action="角色台词" data="niefei" param="{角色动作,,1004}{角色表情,,10010;20010;}这里应该是严肃回待机..."/>
+<Test_Niefei id="50" originalRow="50" action="角色台词" data="niefei" param="{角色动作,,1005}{角色表情,,10040;20040;}这里应该是忧伤动作..."/>
+<Test_Niefei id="51" originalRow="51" action="角色台词" data="niefei" param="{角色动作,,1006}{角色表情,,10010;20010;}这里应该是忧伤回待机动作..."/>
+<Test_Niefei id="52" originalRow="52" groupSign="" debugClose="" action="角色台词" data="niefei" param="{角色动作,,1007}{角色表情,,10040;20040;}这里应该是惊讶动作..." param2="" param3=""/>
+<Test_Niefei id="53" originalRow="53" groupSign="" debugClose="" action="角色台词" data="niefei" param="{角色动作,,1008}{角色表情,,10010;20010;}这里应该是惊讶回待机动作..." param2="" param3=""/>
+<Test_Niefei id="54" originalRow="54" action="角色台词" data="niefei" param="{角色动作,,1009}{角色表情,,10060;20060;}这里应该是紧张动作..."/>
+<Test_Niefei id="55" originalRow="55" action="角色台词" data="niefei" param="{角色动作,,1010}{角色表情,,10010;20010;}这里应该是紧张回待机动作..."/>
+<Test_Niefei id="56" originalRow="56" action="角色台词" data="niefei" param="{角色动作,,1011}{角色表情,,10060;20060;}这里应该是思考动作..."/>
+<Test_Niefei id="57" originalRow="57" action="角色台词" data="niefei" param="{角色动作,,1012}{角色表情,,10010;20010;}这里应该是思考回待机动作..."/>
+<Test_Niefei id="58" originalRow="58" action="角色台词" data="niefei" param="{角色动作,,1013}{角色表情,,10080;20080;}这里应该是愤怒动作..."/>
+<Test_Niefei id="59" originalRow="59" action="角色台词" data="niefei" param="{角色动作,,1014}{角色表情,,10010;20010;}这里应该是愤怒回待机动作..."/>
+<Test_Niefei id="60" originalRow="60" action="角色台词" data="niefei" param="{角色动作,,1015}{角色表情,,10090;20090;}这里应该是得意动作..."/>
+<Test_Niefei id="61" originalRow="61" action="角色台词" data="niefei" param="{角色动作,,1016}{角色表情,,10010;20010;}这里应该是得意回待机动作..."/>
+<Test_Niefei id="62" originalRow="62" groupSign="" debugClose="" action="角色台词" data="niefei" param="{角色动作,,1017}{角色表情,,10040;20040;}这里应该是馋动作..." param2="" param3=""/>
+<Test_Niefei id="63" originalRow="63" groupSign="" debugClose="" action="角色台词" data="niefei" param="{角色动作,,1018}{角色表情,,10010;20010;}这里应该是馋回待机动作..." param2="" param3=""/>
+<Test_Niefei id="64" originalRow="64" groupSign="" debugClose="" action="角色台词" data="niefei" param="{角色动作,,1019}{角色表情,,10010;20010;}这里应该是俯卧撑动作..." param2="" param3=""/>
+<Test_Niefei id="65" originalRow="65" groupSign="" debugClose="" action="角色台词" data="niefei" param="{角色动作,,1020}{角色表情,,10010;20010;}这里应该是军体拳动作..." param2="" param3=""/>
+<Test_Niefei id="66" originalRow="66" groupSign="说话" data=""/>
+<Test_Niefei id="67" originalRow="67" action="角色台词" data="niefei" param="{talk,,102101}{角色表情,,10010;}这里应该是待机..."/>
+<Test_Niefei id="68" originalRow="68" action="角色台词" data="niefei" param="这是看看有没有问题的一句话。"/>
+<Test_Niefei id="69" originalRow="69" action="角色台词" data="niefei" param="这里说话的口型会回去吗？"/>
+<Test_Niefei id="70" originalRow="70" action="角色台词" data="niefei" param="{talk,,102102}这里应该是平静..."/>
+<Test_Niefei id="71" originalRow="71" action="角色台词" data="niefei" param="这里说话的口型会回去吗？"/>
+<Test_Niefei id="72" originalRow="72" action="角色台词" data="niefei" param="这是看看有没有问题的一句话。"/>
+<Test_Niefei id="73" originalRow="73" action="角色台词" data="niefei" param="{talk,,102103}这里应该是开心..."/>
+<Test_Niefei id="74" originalRow="74" action="角色台词" data="niefei" param="这是看看有没有问题的一句话。如果这是一句非常长的话，{角色动作,,1015}{角色表情,,10090;}这里还会出现一个动作，口型还会正常播放吗？"/>
+<Test_Niefei id="75" originalRow="75" action="角色台词" data="niefei" param="这里说话的口型会回去吗？"/>
+<Test_Niefei id="76" originalRow="76" debugClose="1" action="角色台词" data="niefei" param="{talk,,102104}这里应该是严肃..."/>
+<Test_Niefei id="77" originalRow="77" debugClose="1" action="角色台词" data="niefei" param="这是看看有没有问题的一句话。"/>
+<Test_Niefei id="78" originalRow="78" action="角色台词" data="niefei" param="这里说话的口型会回去吗？"/>
+<Test_Niefei id="79" originalRow="79" action="角色台词" data="niefei" param="{talk,,102105}这里应该是惊讶..."/>
+<Test_Niefei id="80" originalRow="80" action="角色台词" data="niefei" param="这是看看有没有问题的一句话。"/>
+<Test_Niefei id="81" originalRow="81" action="角色台词" data="niefei" param="这里说话的口型会回去吗？"/>
+<Test_Niefei id="82" originalRow="82" action="角色台词" data="niefei" param="{talk,,102107}这里应该是紧张..."/>
+<Test_Niefei id="83" originalRow="83" action="角色台词" data="niefei" param="这是看看有没有问题的一句话。"/>
+<Test_Niefei id="84" originalRow="84" action="角色台词" data="niefei" param="这里说话的口型会回去吗？"/>
+<Test_Niefei id="85" originalRow="85" debugClose="1" action="角色台词" data="niefei" param="{talk,,102108}这里应该是思考..."/>
+<Test_Niefei id="86" originalRow="86" debugClose="1" action="角色台词" data="niefei" param="这是看看有没有问题的一句话。"/>
+<Test_Niefei id="87" originalRow="87" action="角色台词" data="niefei" param="这里说话的口型会回去吗？"/>
+<Test_Niefei id="88" originalRow="88" action="角色台词" data="niefei" param="{talk,,102109}这里应该是愤怒..."/>
+<Test_Niefei id="89" originalRow="89" action="角色台词" data="niefei" param="这是看看有没有问题的一句话。"/>
+<Test_Niefei id="90" originalRow="90" action="角色台词" data="niefei" param="{talk,,102110}这里应该是得意..."/>
+<Test_Niefei id="91" originalRow="91" action="角色台词" data="niefei" param="这里说话的口型会回去吗？"/>
+<Test_Niefei id="92" originalRow="92" action="角色台词" data="niefei" param="聂总的口型会奇怪吗?"/>
+</root>

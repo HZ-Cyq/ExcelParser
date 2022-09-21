@@ -1,0 +1,75 @@
+<root>
+<Test_Tuling id="0" originalRow="0" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story" param="" param2=""/>
+<Test_Tuling id="1" originalRow="1" groupSign="" debugClose="" action="镜头切换" data="camchar0" param="" param2=""/>
+<Test_Tuling id="2" originalRow="2" groupSign="" debugClose="" action="设置角色" data="tuling" param="" param2=""/>
+<Test_Tuling id="3" originalRow="3" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色动作,,1000}{角色表情,,10010;20010;}这里应该是待机动作..." param2=""/>
+<Test_Tuling id="4" originalRow="4" groupSign="" debugClose="" action="角色转向" data="tuling" param="60" param2="0.5"/>
+<Test_Tuling id="5" originalRow="5" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色动作,,1001}{角色表情,,10070;20070;}这里应该是开心动作..." param2="" param3="type=1"/>
+<Test_Tuling id="6" originalRow="6" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色动作,,1002}这里应该是开心回待机动作..." param2="" param3=""/>
+<Test_Tuling id="7" originalRow="7" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色动作,,1003}这里应该是严肃动作..." param2="" param3=""/>
+<Test_Tuling id="8" originalRow="8" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色动作,,1004}这里应该是严肃回待机动作..." param2="" param3=""/>
+<Test_Tuling id="9" originalRow="9" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色动作,,1005}{角色表情,,10040;20040;}这里应该是忧伤动作..." param2="" param3=""/>
+<Test_Tuling id="10" originalRow="10" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色动作,,1006}这里应该是忧伤回待机动作..." param2="" param3=""/>
+<Test_Tuling id="11" originalRow="11" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色动作,,1007}{角色表情,,10050;20050;}{4.2}{角色表情,,10051;20050;}这里应该是惊讶动作..." param2="" param3=""/>
+<Test_Tuling id="12" originalRow="12" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色动作,,1008}这里应该是惊讶回待机动作..." param2="" param3=""/>
+<Test_Tuling id="13" originalRow="13" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色动作,,1009}{角色表情,,10060;20060;}这里应该是紧张动作..." param2="" param3=""/>
+<Test_Tuling id="14" originalRow="14" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色动作,,1010}这里应该是紧张回待机动作..." param2="" param3=""/>
+<Test_Tuling id="15" originalRow="15" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色动作,,1011}{角色表情,,10070;20070;}这里应该是思考动作..." param2="" param3=""/>
+<Test_Tuling id="16" originalRow="16" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色动作,,1012}这里应该是思考回待机动作..." param2="" param3=""/>
+<Test_Tuling id="17" originalRow="17" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色动作,,1013}这里应该是愤怒动作..." param2="" param3=""/>
+<Test_Tuling id="18" originalRow="18" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色动作,,1014}这里应该是愤怒回待机动作..." param2="" param3=""/>
+<Test_Tuling id="19" originalRow="19" groupSign="" debugClose="1" action="角色台词" data="tuling" param="{角色动作,,1015}这里应该是得意动作..." param2="" param3=""/>
+<Test_Tuling id="20" originalRow="20" groupSign="" debugClose="1" action="角色台词" data="tuling" param="{角色动作,,1016}这里应该是得意回待机动作..." param2="" param3=""/>
+<Test_Tuling id="21" originalRow="21" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色动作,,1017}{角色表情,,10120;20120;}{2.5}{角色表情,,;20000;}这里应该是憋气动作..." param2="" param3=""/>
+<Test_Tuling id="22" originalRow="22" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色动作,,1023}这里应该是憋气回待机动作..." param2="" param3=""/>
+<Test_Tuling id="23" originalRow="23" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色动作,,1018}这里应该是张望动作..." param2="" param3=""/>
+<Test_Tuling id="24" originalRow="24" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色动作,,1019}这里应该是拒绝动作..." param2="" param3=""/>
+<Test_Tuling id="25" originalRow="25" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色动作,,1020}这里应该是拒绝回待机动作..." param2="" param3=""/>
+<Test_Tuling id="26" originalRow="26" groupSign="" debugClose="1" action="角色台词" data="tuling" param="{角色动作,,1021}这里应该是拒绝动作..." param2="" param3=""/>
+<Test_Tuling id="27" originalRow="27" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Tuling id="28" originalRow="28" groupSign="" debugClose="1" action="角色台词" data="tuling" param="{角色表情,,10000;20000;}这里应该是待机表情..." param2="" param3=""/>
+<Test_Tuling id="29" originalRow="29" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色表情,,10010;20010;}这里应该是平静表情..." param2="" param3=""/>
+<Test_Tuling id="30" originalRow="30" groupSign="" debugClose="1" action="角色台词" data="tuling" param="{角色表情,,10020;20020;}这里应该是开心表情..." param2="" param3=""/>
+<Test_Tuling id="31" originalRow="31" debugClose="1" action="角色台词" data="tuling" param="{角色表情,,10030;20030;}这里应该是严肃表情..."/>
+<Test_Tuling id="32" originalRow="32" debugClose="1" action="角色台词" data="tuling" param="{角色表情,,10040;20040;}这里应该是忧伤表情..."/>
+<Test_Tuling id="33" originalRow="33" debugClose="" action="角色台词" data="tuling" param="{角色表情,,10050;20050;}这里应该是惊讶表情..."/>
+<Test_Tuling id="34" originalRow="34" debugClose="1" action="角色台词" data="tuling" param="{角色表情,,10060;20060;}这里应该是紧张表情..."/>
+<Test_Tuling id="35" originalRow="35" debugClose="1" action="角色台词" data="tuling" param="{角色表情,,10070;20070;}这里应该是思考表情..."/>
+<Test_Tuling id="36" originalRow="36" debugClose="1" action="角色台词" data="tuling" param="{角色表情,,10080;20080;}这里应该是愤怒表情..."/>
+<Test_Tuling id="37" originalRow="37" debugClose="1" action="角色台词" data="tuling" param="{角色表情,,10090;20090;}这里应该是得意表情..."/>
+<Test_Tuling id="38" originalRow="38" debugClose="" action="角色台词" data="tuling" param="{角色表情,,10110;20110;}这里应该是憋气表情..."/>
+<Test_Tuling id="39" originalRow="39" debugClose="1" action="角色台词" data="tuling" param="{角色表情,,10110;20110;}这里应该是“吹”表情..."/>
+<Test_Tuling id="40" originalRow="40"/>
+<Test_Tuling id="41" originalRow="41" debugClose="" action="角色台词" data="tuling" param="{角色动作,,1000}{角色表情,,10010;20010;}这里应该是待机..."/>
+<Test_Tuling id="42" originalRow="42" debugClose="" action="角色台词" data="tuling" param="{角色动作,,1001}{角色表情,,10010;20010;}这里应该是开心..."/>
+<Test_Tuling id="43" originalRow="43" debugClose="" action="角色台词" data="tuling" param="{角色动作,,1002}{角色表情,,10010;20010;}这里应该是开心回待机..."/>
+<Test_Tuling id="44" originalRow="44" debugClose="" action="角色台词" data="tuling" param="{角色动作,,1003}{角色表情,,10010;20010;}这里应该是严肃..."/>
+<Test_Tuling id="45" originalRow="45" debugClose="" action="角色台词" data="tuling" param="{角色动作,,1004}{角色表情,,10010;20010;}这里应该是严肃回待机..."/>
+<Test_Tuling id="46" originalRow="46" debugClose="" action="角色台词" data="tuling" param="{角色动作,,1005}{角色表情,,10040;20040;}这里应该是忧伤动作..."/>
+<Test_Tuling id="47" originalRow="47" debugClose="" action="角色台词" data="tuling" param="{角色动作,,1006}{角色表情,,10010;20010;}这里应该是忧伤回待机动作..."/>
+<Test_Tuling id="48" originalRow="48" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色动作,,1007}{角色表情,,10050;20050;}这里应该是惊讶动作..." param2="" param3=""/>
+<Test_Tuling id="49" originalRow="49" debugClose="" action="角色台词" data="tuling" param="{角色动作,,1009}{角色表情,,10010;20010;}这里应该是紧张动作..."/>
+<Test_Tuling id="50" originalRow="50" debugClose="" action="角色台词" data="tuling" param="{角色动作,,1010}{角色表情,,10010;20010;}这里应该是紧张回待机动作..."/>
+<Test_Tuling id="51" originalRow="51" debugClose="" action="角色台词" data="tuling" param="{角色动作,,1011}{角色表情,,10070;20070;}这里应该是思考动作..."/>
+<Test_Tuling id="52" originalRow="52" debugClose="" action="角色台词" data="tuling" param="{角色动作,,1012}{角色表情,,10010;20010;}这里应该是思考回待机动作..."/>
+<Test_Tuling id="53" originalRow="53" debugClose="" action="角色台词" data="tuling" param="{角色动作,,1013}{角色表情,,10010;20010;}这里应该是愤怒动作..."/>
+<Test_Tuling id="54" originalRow="54" debugClose="" action="角色台词" data="tuling" param="{角色动作,,1014}{角色表情,,10010;20010;}这里应该是愤怒回待机动作..."/>
+<Test_Tuling id="55" originalRow="55" debugClose="1" action="角色台词" data="tuling" param="{角色动作,,1015}{角色表情,,10010;20010;}这里应该是得意动作..."/>
+<Test_Tuling id="56" originalRow="56" debugClose="1" action="角色台词" data="tuling" param="{角色动作,,1016}{角色表情,,10010;20010;}这里应该是得意回待机动作..."/>
+<Test_Tuling id="57" originalRow="57" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色动作,,1017}{角色表情,,10110;20110;}这里应该是憋气动作..." param2="" param3=""/>
+<Test_Tuling id="58" originalRow="58" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色动作,,1023}{角色表情,,10120;20120;}这里应该是憋气回待机动作...{2.5}{角色表情,,;20000;}" param2="" param3=""/>
+<Test_Tuling id="59" originalRow="59" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色动作,,1018}{角色表情,,10010;20010;}这里应该是张望动作..." param2="" param3=""/>
+<Test_Tuling id="60" originalRow="60" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色动作,,1019}{角色表情,,10010;20010;}这里应该是拒绝动作..." param2="" param3=""/>
+<Test_Tuling id="61" originalRow="61" groupSign="" debugClose="" action="角色台词" data="tuling" param="{角色动作,,1020}{角色表情,,10010;20010;}这里应该是拒绝回待机动作..." param2="" param3=""/>
+<Test_Tuling id="62" originalRow="62" groupSign="说话" debugClose=""/>
+<Test_Tuling id="63" originalRow="63" debugClose="1" action="角色台词" data="tuling" param="{talk,,102101}这里应该是待机..."/>
+<Test_Tuling id="64" originalRow="64" debugClose="1" action="角色台词" data="tuling" param="{talk,,102102}这里应该是平静..."/>
+<Test_Tuling id="65" originalRow="65" debugClose="1" action="角色台词" data="tuling" param="{talk,,102103}这里应该是开心..."/>
+<Test_Tuling id="66" originalRow="66" debugClose="1" action="角色台词" data="tuling" param="{talk,,102104}这里应该是严肃..."/>
+<Test_Tuling id="67" originalRow="67" debugClose="1" action="角色台词" data="tuling" param="{talk,,102105}这里应该是惊讶..."/>
+<Test_Tuling id="68" originalRow="68" debugClose="1" action="角色台词" data="tuling" param="{talk,,102107}这里应该是紧张..."/>
+<Test_Tuling id="69" originalRow="69" debugClose="1" action="角色台词" data="tuling" param="{talk,,102108}这里应该是思考..."/>
+<Test_Tuling id="70" originalRow="70" debugClose="1" action="角色台词" data="tuling" param="{talk,,102109}这里应该是愤怒..."/>
+<Test_Tuling id="71" originalRow="71" debugClose="1" action="角色台词" data="tuling" param="{talk,,102110}这里应该是得意..."/>
+<Test_Tuling id="72" originalRow="72"/>
+</root>

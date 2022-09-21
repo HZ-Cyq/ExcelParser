@@ -1,0 +1,6 @@
+<root>
+<MonsterGroup id="2" group_gid="1" descs="" monsters="" monster_positions=""/>
+<MonsterGroup id="3" group_gid="1" descs="" monsters="" monster_positions=""/>
+<MonsterGroup id="4" group_gid="1" descs="" monsters="" monster_positions=""/>
+<MonsterGroupLimitStat id="1" group_gid="1.0" descs="" monsters="100|101|102|103" monster_positions="1|2|3|4|5" monster_levels="2|2|2|2|3" monster_skill_lvs="2|2|2|2|" heroes="1|2|3|" hero_positions="1|2|3|" hero_skill_lvs="2|2|2|"/>
+</root>

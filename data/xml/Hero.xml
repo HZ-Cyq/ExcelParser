@@ -1,0 +1,8 @@
+<root>
+<Hero id="12" name="聂总" gender="1" model_id="12" skills="1201|1202" drawing="" icon="hero_102"/>
+<Hero id="13" name="涂凌" gender="2" model_id="13" skills="1301|1302" drawing="" icon="hero_102"/>
+<Hero id="91" name="测试用-输出角色" gender="1" model_id="91" skills="9101|9102" icon="hero_101"/>
+<Hero id="92" name="测试用-平衡角色" gender="1" model_id="92" skills="9201|9202" drawing="" icon="hero_102"/>
+<Hero id="93" name="测试用-防御角色" gender="1" model_id="93" skills="9301|9302" drawing="" icon="hero_102"/>
+<HeroLimitStat id="11" name="凯瑟琳" gender="2.0" model_id="11.0" skills="1101|1102" drawing="null" icon="hero_101"/>
+</root>

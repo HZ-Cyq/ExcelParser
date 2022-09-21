@@ -1,0 +1,20 @@
+<root>
+<Monster id="1012" name="聂总" character_type="1" gender="1" model_id="102" skills="1201|1202" drawing="" hero_icon="hero_102"/>
+<Monster id="1013" name="涂凌" character_type="1" gender="2" model_id="103" skills="1301|1302" drawing="" hero_icon="hero_102"/>
+<Monster id="1091" name="测试用-输出角色" character_type="1" gender="1" model_id="201" skills="9101|9102" hero_icon="hero_101"/>
+<Monster id="1092" name="测试用-平衡角色" character_type="1" gender="1" model_id="202" skills="9201|9202" drawing="" hero_icon="hero_102"/>
+<Monster id="1093" name="测试用-防御角色" character_type="1" gender="1" model_id="203" skills="9301|9302" drawing="" hero_icon="hero_102"/>
+<Monster id="2101" name="小狐狸" character_type="2" gender="2" model_id="1001" skills="10101|10102|10103" hero_icon="hero_1001" attribute_base="1;286|4;113|5;32|7;29|19;40|20;0|21;600|22;0|23;0|24;103|33;0|34;0|25;0|26;0|30;0"/>
+<Monster id="2102" name="双狼" character_type="2" gender="2" model_id="1002" skills="10201|10202|10203" hero_icon="hero_1002" attribute_base="1;409|6;81|5;36|7;40|19;0|20;0|21;500|22;0|23;0|24;103|33;20|34;20|25;0|26;0|30;0"/>
+<Monster id="2103" name="水母" character_type="2" gender="2" model_id="1003" skills="10301|10302|10303" hero_icon="hero_1002" attribute_base="1;286|4;113|5;32|7;29|19;40|20;0|21;600|22;0|23;0|24;103|33;0|34;0|25;0|26;0|30;0"/>
+<Monster id="2104" name="夜鸟" character_type="2" gender="2" model_id="1004" skills="10401|10402|10403" hero_icon="hero_1002" attribute_base="1;409|6;81|5;36|7;40|19;0|20;0|21;500|22;0|23;0|24;103|33;20|34;20|25;0|26;0|30;0"/>
+<Monster id="2105" name="螃蟹" character_type="2" gender="2" model_id="1005" skills="10501|10502|10503" hero_icon="hero_1002" attribute_base="1;286|4;113|5;32|7;29|19;40|20;0|21;600|22;0|23;0|24;103|33;0|34;0|25;0|26;0|30;0"/>
+<Monster id="2100" name="测试" character_type="2" gender="2" model_id="10" skills="101|102|103" hero_icon="hero_101" attribute_base="1;1125|4;203|5;110|7;99|19;0|20;80|21;500|22;0|23;80|24;103|33;0|34;0|25;0|26;0|30;0"/>
+<Monster id="2901" name="测试用-对位射手" character_type="2" gender="1" model_id="2001" skills="90101|90102|90103" hero_icon="hero_1001" attribute_base="1;1000|2;400|5;0|7;0|19;0|20;0|21;0|33;0|34;0|25;0|26;0|30;0|48;400|49;0|50;0|51;0|"/>
+<Monster id="2902" name="测试用-非对位射手" character_type="2" gender="1" model_id="2002" skills="90201|90202|90203" hero_icon="hero_1001" attribute_base="1;1000|2;400|5;0|7;0|19;0|20;0|21;0|33;0|34;0|25;0|26;0|30;0|48;0|49;0|50;600|51;0|"/>
+<Monster id="2903" name="测试用-战士" character_type="2" gender="1" model_id="2003" skills="90301|90302|90303" hero_icon="hero_1001" attribute_base="1;2000|2;250|5;0|7;0|19;0|20;0|21;0|33;0|34;0|25;0|26;0|30;0|48;0|49;0|50;0|51;0|"/>
+<Monster id="2904" name="测试用-刺客" character_type="2" gender="1" model_id="2004" skills="90401|90402|90403" hero_icon="hero_1002" attribute_base="1;1500|2;125|5;0|7;0|19;0|20;0|21;0|33;0|34;0|25;0|26;0|30;0|48;0|49;0|50;0|51;0|"/>
+<Monster id="2905" name="测试用-肉盾" character_type="2" gender="1" model_id="2005" skills="90501|90502|90503" hero_icon="hero_1002" attribute_base="1;3000|2;150|5;0|7;0|19;0|20;0|21;0|33;0|34;0|25;0|26;0|30;0|48;0|49;0|50;0|51;0|"/>
+<Monster id="2906" name="测试用-辅助" character_type="2" gender="1" model_id="2006" skills="90601|90602|90603" hero_icon="hero_1002" attribute_base="1;286|4;113|5;32|7;29|19;40|20;0|21;600|22;0|23;0|24;103|33;0|34;0|25;0|26;0|30;0"/>
+<MonsterLimitStat id="1011" name="凯瑟琳" character_type="1.0" gender="2.0" model_id="101.0" skills="1101|1102" drawing="null" hero_icon="hero_101" attribute_base="null"/>
+</root>

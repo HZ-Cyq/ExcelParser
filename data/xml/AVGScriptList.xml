@@ -1,0 +1,8 @@
+﻿<root>
+<AVGScriptList id="0" scriptName="Test_Begin" description="废弃" fileName="excel\AVGScripts\Test.xlsx"/>
+ <AVGScriptList id="1" scriptName="Test_kaiselin" description="凯瑟琳测试脚本" fileName="excel\AVGScripts\Test.xlsx"/>
+ <AVGScriptList id="2" scriptName="Test_Niefei" description="聂飞测试脚本" fileName="excel\AVGScripts\Test.xlsx"/>
+ <AVGScriptList id="3" scriptName="Test_Tuling" description="涂凌测试脚本" fileName="excel\AVGScripts\Test.xlsx"/>
+ <AVGScriptList id="4" scriptName="Test_Liliu" description="莉琉测试脚本" fileName="excel\AVGScripts\Test.xlsx"/>
+ <AVGScriptList id="5" scriptName="Beginstory1" description="" fileName="excel\AVGScripts\01_Preamble.xlsx"/>
+ </root>

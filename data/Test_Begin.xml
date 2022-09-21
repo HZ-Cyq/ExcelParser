@@ -1,0 +1,34 @@
+<root>
+<Test_Begin id="0" originalRow="0" groupSign="开始" debugClose="1" action="设置场号" data="avg_basic_scene" param="" param2="" param3=""/>
+<Test_Begin id="1" originalRow="1" groupSign="" debugClose="" action="设置镜号" data="avg_basic_story" param="" param2="" param3=""/>
+<Test_Begin id="2" originalRow="2" groupSign="" debugClose="" action="镜头切换" data="camchar0" param="" param2="" param3="FALSE;TRUE;TRUE"/>
+<Test_Begin id="3" originalRow="3" groupSign="" debugClose="" action="" data="" param="" param2="" param3=""/>
+<Test_Begin id="4" originalRow="4" groupSign="" debugClose="" action="故事板" data="" param="「异质物」$$0.2" param2="" param3=""/>
+<Test_Begin id="5" originalRow="5" groupSign="" debugClose="" action="故事板" data="" param="一旦满足特定条件$$0.6
+就足以引发颠覆常识的物理现象$$0.5" param2="" param3=""/>
+<Test_Begin id="6" originalRow="6" groupSign="" debugClose="" action="故事板" data="" param="实现不可能的物质能量交换$$0.5
+影响扭曲人类心智$$0.5" param2="" param3=""/>
+<Test_Begin id="7" originalRow="7" groupSign="" debugClose="" action="故事板" data="" param="甚至瞬间迸发出毁天灭地的威力…… $$0.5" param2="" param3=""/>
+<Test_Begin id="8" originalRow="8" groupSign="" debugClose="" action="故事板" data="" param="这种作用不受任何维度、时空、心灵等已知壁障的限制$$0.5" param2="" param3=""/>
+<Test_Begin id="9" originalRow="9" groupSign="" debugClose="" action="故事板" data="" param="长久以来$$0.5
+『异质物』一直都在人们周围$$0.5" param2="" param3=""/>
+<Test_Begin id="10" originalRow="10" groupSign="" debugClose="" action="故事板" data="" param="但由于很多异质物外形类似日常用品，因而很难被发现$$0.5" param2="" param3=""/>
+<Test_Begin id="11" originalRow="11" groupSign="" debugClose="" action="故事板" data="" param="历史上也曾有机构$$0.5
+一直致力于隐瞒『异质物』的存在$$0.5" param2="" param3=""/>
+<Test_Begin id="12" originalRow="12" groupSign="" debugClose="" action="故事板" data="" param="他们认为这样才能保护人类$$0.5
+来之不易的理性与秩序$$0.5" param2="" param3=""/>
+<Test_Begin id="13" originalRow="13" groupSign="" debugClose="" action="故事板" data="" param="但随着一连串的事件使『异质物』$$0.5
+接二连三的暴露在公众视野$$0.5" param2="" param3=""/>
+<Test_Begin id="14" originalRow="14" groupSign="" debugClose="" action="故事板" data="" param="一切都变得无法挽回了……$$0.5" param2="" param3=""/>
+<Test_Begin id="15" originalRow="15" groupSign="" debugClose="" action="故事板" data="" param="就像原始人不理解燃烧的原理$$0.5
+却能将火作为工具和武器一样── $$0.5" param2="" param3=""/>
+<Test_Begin id="16" originalRow="16" groupSign="" debugClose="" action="故事板" data="" param="很快，人类为了争夺『异质物』$$0.5" param2="" param3=""/>
+<Test_Begin id="17" originalRow="17" groupSign="" debugClose="" action="故事板" data="" param="再次毫不犹豫的拿起了自己无法理解的武器开始互相厮杀……$$0.5" param2="" param3=""/>
+<Test_Begin id="18" originalRow="18" groupSign="" debugClose="" action="故事板" data="" param="一场波及全球，持续七年的异质物战争……$$0.5" param2="" param3=""/>
+<Test_Begin id="19" originalRow="19" groupSign="" debugClose="" action="故事板" data="" param="如今成为了所有人都想要尽快忘记的梦魇$$0.5" param2="" param3=""/>
+<Test_Begin id="20" originalRow="20" groupSign="" debugClose="1" action="故事板" data="" param="战争结束后，大部分国家依然严格禁止民间持有或使用未经审批的异质物和相关制品$$0.5" param2="" param3=""/>
+<Test_Begin id="21" originalRow="21" groupSign="" debugClose="1" action="故事板" param="一旦发现异质物的踪迹$$0.5
+科研和情报机构就会立刻派遣武装部队进行回收$$0.5" param2="" param3=""/>
+<Test_Begin id="22" originalRow="22" groupSign="" debugClose="1" action="故事板" data="" param="在这个国家，所有异质物都会集中在几个被称为“站点”的研究单位进行收容和研究……$$0.5" param2="" param3=""/>
+<Test_Begin id="23" originalRow="23" groupSign="" debugClose="1" action="特殊-转场效果" data="0" param="1" param2="" param3=""/>
+</root>

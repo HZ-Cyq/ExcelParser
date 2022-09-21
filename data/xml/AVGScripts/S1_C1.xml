@@ -1,0 +1,14 @@
+<root>
+<S1_C1 id="1" originalRowCounts="1" groupSign="" debugClose="0" action="" param="这儿是场景1
+角色玲和遥" param2=""/>
+<S1_C1 id="2" originalRowCounts="2" groupSign="" debugClose="0" action="故事板" param="欢迎光临，闯入者。$$1.0
+......$$1.0
+不要紧张，我不会赶你出去。$$2.0
+只是想从你这里得到一些回答罢了。$$3.0
+"/>
+<S1_C1 id="3" originalRowCounts="3" groupSign="" debugClose="0" action="设置场号" data="scene_1001"/>
+<S1_C1 id="4" originalRowCounts="4" groupSign="" debugClose="0" action="设置镜号" data="cam_1001_01"/>
+<S1_C1 id="5" originalRowCounts="5" groupSign="AAA" debugClose="0" action="播放音乐" data="bgm_1001"/>
+<S1_C1 id="6" originalRowCounts="6" groupSign="BBB" debugClose="0" action="定义组号"/>
+<S1_C1 id="7" originalRowCounts="7" groupSign="0.5" debugClose="0" action="角色台词" data="" param="玲带着通知书来到向往已久的军事学院。"/>
+</root>
